@@ -1,23 +1,21 @@
-import logo from './logo.svg';
-import './App.css';
+import { useContext } from "react";
+import { WordsContext } from "./ContextProvider";
 
 function App() {
+  const { words } = useContext(WordsContext);
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <h1 style={{textAlign:'center'}}>504 Essential Words</h1>
+      <div>
+        {words.map((word) => (
+          <div key={word.word} className="word-card">
+            <h5>{word.word}</h5>
+            <p>{word.meaning}</p>
+            <button>+</button>
+          </div>
+        ))}
+      </div>
     </div>
   );
 }
