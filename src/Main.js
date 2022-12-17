@@ -13,10 +13,10 @@ function Main() {
   return (
     <div className="container">
       <h1 style={{ textAlign: "center" }}>504 Essential Words</h1>
-      <div className="buttons">
+      {/* <div className="buttons">
         <button>DONE</button>
         <button>NOT YET</button>
-      </div>
+      </div> */}
       <div className="cards-container">
         {words.slice(0, end).map((word) => (
           <WordCard word={word} key={word.word} />
