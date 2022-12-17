@@ -271,7 +271,7 @@ dic = {}
 
 for word, sentence in zip(words, sentences):
     for w, s in zip(word, sentence):
-        lis.append({"word": w, "meaning": s})
+        lis.append({"word": w, "meaning": s, "hardship": "null"})
 
 print(lis)
 
