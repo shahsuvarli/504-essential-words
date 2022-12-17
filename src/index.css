@@ -12,44 +12,44 @@ code {
     monospace;
 }
 
-.word-card {
-  border: 1px solid black;
-  padding: 5px;
-  border-radius: 5px;
-  margin: 10px;
-}
-
 .container {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: whitesmoke;
   flex-direction: column;
 }
 
 .cards-container {
   width: 90%;
-  background-color: wheat;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  gap: 10px;
 }
 
 .word-card {
   width: 300px;
-  background-color: antiquewhite;
+  padding: 10px;
 }
 
 #see-more {
   margin-bottom: 20px;
+  position: fixed;
+  bottom: 50px;
 }
 
 .buttons {
-  width: 100%;
   display: flex;
+  justify-content: space-evenly;
 }
 
 .buttons > button {
-  flex: 1;
-  height: 30px;
+  height: 35px;
+  width: 120px;
+  font-weight: bold;
+}
+
+.word{
+  font-size: 25px;
+  font-weight: bold;
 }
