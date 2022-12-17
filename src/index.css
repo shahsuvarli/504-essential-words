@@ -47,7 +47,6 @@ code {
 .buttons {
   width: 100%;
   display: flex;
-  background-color: rebeccapurple;
 }
 
 .buttons > button {

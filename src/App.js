@@ -13,8 +13,8 @@ function App() {
     <div className="container">
       <h1 style={{ textAlign: "center" }}>504 Essential Words</h1>
       <div className="buttons">
-        <button>easy</button>
-        <button>hard</button>
+        <button>DONE</button>
+        <button>NOT YET</button>
       </div>
       <div className="cards-container">
         {words.slice(0, end).map((word) => (
