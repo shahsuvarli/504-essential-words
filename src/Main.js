@@ -6,8 +6,10 @@ import WordCard from "./WordCard";
 function Main() {
   const { words } = useContext(WordsContext);
   const [end, setEnd] = useState(12);
+  const [start, setStart] = useState(0);
 
   const seeMore = () => {
+    setStart(start + 12);
     setEnd(end + 12);
   };
   return (
@@ -18,11 +20,16 @@ function Main() {
         <button>NOT YET</button>
       </div> */}
       <div className="cards-container">
-        {words.slice(0, end).map((word) => (
+        {words.slice(start, end).map((word) => (
           <WordCard word={word} key={word.word} />
         ))}
       </div>
-      <Button id="see-more" onClick={seeMore} variant="contained">
+      <Button
+        id="see-more"
+        onClick={seeMore}
+        variant="contained"
+        disabled={start === 492 || false}
+      >
         see more
       </Button>
     </div>

@@ -17,19 +17,30 @@ code {
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  margin-bottom: 150px;
 }
 
 .cards-container {
-  width: 90%;
+  width: 95%;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   gap: 10px;
+  /* background-color: aqua; */
 }
 
 .word-card {
-  width: 300px;
+  width: 250px;
   padding: 10px;
+  display: grid;
+  /* grid-template-columns: 50px 100px 50px; */
+}
+
+.card-header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex: 10;
 }
 
 #see-more {
@@ -38,18 +49,27 @@ code {
   bottom: 50px;
 }
 
+.meaning{
+  flex: 1;
+}
+
 .buttons {
+  flex: 1;
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-between;
+}
+
+svg{
+  margin-right: 10px;
 }
 
 .buttons > button {
   height: 35px;
-  width: 120px;
+  font-size: 12px;
   font-weight: bold;
 }
 
 .word{
-  font-size: 25px;
+  font-size: 20px;
   font-weight: bold;
 }
