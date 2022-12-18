@@ -23,7 +23,7 @@ function Pagination() {
         endIcon={<ExpandMoreIcon />}
         variant="contained"
         fullWidth
-        sx={{ margin: 1, height:40, fontSize:17 }}
+        sx={{ margin: 1, height: 40, fontSize: 17 }}
       >
         Lesson {page + 1}
       </Button>
@@ -33,14 +33,14 @@ function Pagination() {
         unmountOnExit
         className="pagination-collapse"
       >
-        {pages.map((page, index) => (
+        {pages.map((pageNum) => (
           <Button
             className="page-number"
-            key={index}
+            key={pageNum}
             onClick={(e) => handlePage(e)}
-            variant="contained"
+            variant={pageNum === page ? "contained" : "outlined"}
           >
-            {page + 1}
+            {pageNum + 1}
           </Button>
         ))}
       </Collapse>

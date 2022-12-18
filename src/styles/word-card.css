@@ -1,15 +1,27 @@
+@keyframes card {
+  from {
+    /* width: 100px; */
+    height: 10px;
+  }
+  to {
+    /* min-height: 100px; */
+  }
+}
+
 .word-card {
   width: 250px;
   padding: 10px;
   display: grid;
-  background-color: rgb(252, 252, 252) !important;
-  z-index:5;
+  background-color: rgb(252, 252, 252);
+  /* animation: card 2s ease-in-out 1 !important; */
+  z-index: 5;
 }
 
 .card-header {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  /* animation: card 0.5s 1 !important; */
 }
 
 .word {

@@ -12,11 +12,11 @@
 
 .page-number {
   margin: 1% !important;
-  font-size: 170px;
+  font-size: 17px !important;
 }
 
-.pagination-collapse{
-    margin-bottom: 10px;
+.pagination-collapse {
+  margin-bottom: 10px;
 }
 
 .pagination-collapse > * > * {

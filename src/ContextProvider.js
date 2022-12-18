@@ -1,5 +1,5 @@
 import React, { createContext, useEffect, useState } from "react";
-import source from "./words.json";
+import source from "./assets/data/words.json";
 
 export const WordsContext = createContext();
 
@@ -8,7 +8,7 @@ function ContextProvider({ children }) {
   const [modal, setModal] = useState(false);
   const [data, setData] = useState();
   const [page, setPage] = useState(0);
-  const [pages, setPas] = useState([]);
+  const [pages, setPages] = useState([]);
 
   useEffect(() => {
     for (let page = 0; page < 504 / 12; page++) {

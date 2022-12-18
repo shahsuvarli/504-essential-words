@@ -7,7 +7,7 @@ import { WordsContext } from "./ContextProvider";
 import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
 
 function WordCard({ word }) {
-  const { modal, setModal, data, setData, page } = useContext(WordsContext);
+  const { modal, setModal, setData } = useContext(WordsContext);
   const [expand, setExpand] = useState(false);
 
   const handleModal = (word) => {
@@ -31,7 +31,7 @@ function WordCard({ word }) {
         <PlayButton word={word.word} className="play-button" />
       </div>
       <Collapse in={expand}>
-        <Typography sx={{marginBottom:2}}>{word.meaning}</Typography>
+        <Typography sx={{ marginBottom: 2 }}>{word.meaning}</Typography>
       </Collapse>
       <div className="buttons">
         <Button color="error" variant="outlined" endIcon={<CancelIcon />}>
