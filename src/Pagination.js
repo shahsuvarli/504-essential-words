@@ -23,7 +23,7 @@ function Pagination() {
         endIcon={<ExpandMoreIcon />}
         variant="contained"
         fullWidth
-        sx={{ margin: 1 }}
+        sx={{ margin: 1, height:40, fontSize:17 }}
       >
         Lesson {page + 1}
       </Button>
