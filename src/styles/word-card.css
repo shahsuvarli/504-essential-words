@@ -2,18 +2,19 @@
   width: 250px;
   padding: 10px;
   display: grid;
+  background-color: rgb(252, 252, 252) !important;
 }
 
 .card-header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  flex: 10;
 }
 
 .word {
   font-size: 20px;
   font-weight: bold;
+  flex: 2;
 }
 
 .buttons {
@@ -23,7 +24,7 @@
 }
 
 .buttons > button {
-    height: 30px;
-    font-size: 12px;
-    font-weight: bold;
-  }
+  height: 30px;
+  font-size: 12px;
+  font-weight: bold;
+}

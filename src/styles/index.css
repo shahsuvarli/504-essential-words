@@ -9,6 +9,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: whitesmoke;
 }
 
 code {
@@ -22,7 +23,8 @@ code {
   flex-direction: column;
   width: 100%;
   height: 100%;
-  background-color: aqua;
+  margin-bottom: 50px;
+  /* background-color: whitesmoke; */
 }
 
 .cards-container {
@@ -31,6 +33,7 @@ code {
   justify-content: center;
   gap: 10px;
   width: 95%;
+  margin-top: 50px;
 }
 
 .meaning {

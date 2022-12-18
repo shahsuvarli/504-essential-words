@@ -4,11 +4,11 @@ import { WordsContext } from "./ContextProvider";
 import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
 
 function Pagination() {
-  const { pages, setPage } = useContext(WordsContext);
+  const { pages, page, setPage } = useContext(WordsContext);
   const [expand, setExpand] = useState(false);
 
   const handlePage = (e) => {
-    setPage(Number(e.target.innerText));
+    setPage(Number(e.target.innerText) - 1);
     setExpand(!expand);
   };
 
@@ -25,7 +25,7 @@ function Pagination() {
         fullWidth
         sx={{ margin: 1 }}
       >
-        go to
+        Lesson {page + 1}
       </Button>
       <Collapse
         in={expand}
@@ -40,7 +40,7 @@ function Pagination() {
             onClick={(e) => handlePage(e)}
             variant="contained"
           >
-            {page}
+            {page + 1}
           </Button>
         ))}
       </Collapse>

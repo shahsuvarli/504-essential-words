@@ -4,6 +4,7 @@ import WordCard from "./WordCard";
 import CardModal from "./CardModal";
 import Pagination from "./Pagination";
 import Arrows from "./Arrows";
+import { Button } from "@mui/material";
 
 function Main() {
   const { words, page } = useContext(WordsContext);
@@ -19,7 +20,6 @@ function Main() {
         ))}
       </div>
       <Arrows />
-      {page}
     </div>
   );
 }
