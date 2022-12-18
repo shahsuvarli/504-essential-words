@@ -1,0 +1,26 @@
+.pagination-container {
+  /* background-color: rebeccapurple; */
+  width: 90%;
+  max-width: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.page-number {
+  margin: 1% !important;
+  font-size: 170px;
+}
+
+.pagination-collapse{
+    margin-bottom: 10px;
+}
+
+.pagination-collapse > * > * {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  /* background-color: rebeccapurple; */
+}

@@ -1,0 +1,29 @@
+.word-card {
+  width: 250px;
+  padding: 10px;
+  display: grid;
+}
+
+.card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex: 10;
+}
+
+.word {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.buttons {
+  flex: 1;
+  display: flex;
+  justify-content: space-between;
+}
+
+.buttons > button {
+    height: 30px;
+    font-size: 12px;
+    font-weight: bold;
+  }
