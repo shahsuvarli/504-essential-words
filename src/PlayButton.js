@@ -1,7 +1,7 @@
 import React from "react";
 import { BsPlay } from "react-icons/bs";
 
-function PlayButton({ word }) {
+function PlayButton({ word, expand }) {
   const getMp3Url = (word) => {
     fetch(`https://api.dictionaryapi.dev/api/v2/entries/en/${word}`)
       .then((res) => {
@@ -18,7 +18,7 @@ function PlayButton({ word }) {
     a.play();
   }
 
-  return <BsPlay size={35} onClick={() => getMp3Url(word)} />;
+  return <BsPlay className="play-button" onClick={() => getMp3Url(word)} />;
 }
 
 export default PlayButton;

@@ -1,23 +1,37 @@
-import React, { useContext, useState } from "react";
+import React, { useContext } from "react";
 import { WordsContext } from "./ContextProvider";
 import WordCard from "./WordCard";
-import CardModal from "./CardModal";
 import Pagination from "./Pagination";
 import Arrows from "./Arrows";
-import { Button } from "@mui/material";
+import { Button, Typography } from "@mui/material";
+import Repeat from "./Repeat";
 
 function Main() {
-  const { words, page } = useContext(WordsContext);
+  const { words, page, setWords, setRepeat, data } = useContext(WordsContext);
+
+  const resetStore = () => {
+    // setWords(JSON.parse(localStorage.getItem("source")) || words);
+    setWords(data);
+    setRepeat([]);
+    localStorage.setItem("source", JSON.stringify(data));
+  };
 
   return (
     <div className="container">
-      <CardModal />
-      <h1 style={{ textAlign: "center" }}>504 Essential Words</h1>
+      <Button variant="contained" onClick={resetStore}>
+        reset
+      </Button>
+      <Typography variant="h4" style={{ textAlign: "center", marginTop: 20 }}>
+        504 Essential Words
+      </Typography>
       <Pagination />
+      <Repeat />
       <div className="cards-container">
-        {words.slice(page * 12, page * 12 + 12).map((word) => (
-          <WordCard word={word} key={word.word} />
-        ))}
+        {words[page - 1].words
+          .filter((word) => word.done === false)
+          .map((word) => {
+            return <WordCard word={word} key={word.word} />;
+          })}
       </div>
       <Arrows />
     </div>

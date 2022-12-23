@@ -41,3 +41,21 @@
   font-size: 12px;
   font-weight: bold;
 }
+
+.see-more-button {
+  width: 30px;
+  height: 30px;
+  color: dodgerblue;
+}
+
+.play-button {
+  transition: all 0.2s;
+  width: 40px;
+  height: 40px;
+  color: dodgerblue;
+}
+
+.play-button:hover,
+.see-more-button:hover {
+  cursor: pointer;
+}

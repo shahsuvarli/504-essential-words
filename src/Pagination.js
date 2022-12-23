@@ -1,14 +1,14 @@
 import { Button, Collapse } from "@mui/material";
-import React, { useContext, useEffect, useState } from "react";
+import React, { useContext, useState } from "react";
 import { WordsContext } from "./ContextProvider";
 import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
 
-function Pagination() {
-  const { pages, page, setPage } = useContext(WordsContext);
+function Pagination({ top }) {
+  const { words, page, setPage } = useContext(WordsContext);
   const [expand, setExpand] = useState(false);
 
   const handlePage = (e) => {
-    setPage(Number(e.target.innerText) - 1);
+    setPage(Number(e.target.innerText));
     setExpand(!expand);
   };
 
@@ -25,7 +25,7 @@ function Pagination() {
         fullWidth
         sx={{ margin: 1, height: 40, fontSize: 17 }}
       >
-        Lesson {page + 1}
+        Lesson {page}
       </Button>
       <Collapse
         in={expand}
@@ -33,14 +33,14 @@ function Pagination() {
         unmountOnExit
         className="pagination-collapse"
       >
-        {pages.map((pageNum) => (
+        {words.map((lesson) => (
           <Button
             className="page-number"
-            key={pageNum}
+            key={lesson.lesson}
             onClick={(e) => handlePage(e)}
-            variant={pageNum === page ? "contained" : "outlined"}
+            variant={lesson.lesson === page ? "contained" : "outlined"}
           >
-            {pageNum + 1}
+            {lesson.lesson}
           </Button>
         ))}
       </Collapse>

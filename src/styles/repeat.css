@@ -1,0 +1,29 @@
+.repeat-container {
+  /* position: fixed; */
+  z-index: 8;
+  width: 90%;
+  max-width: 500px;
+  border: 1px solid dodgerblue;
+  border-radius: 5px;
+}
+
+.repeat-button {
+  width: 100%;
+}
+
+.repeat-collapse-container {
+  background-color: #fff;
+  border-radius: 5px;
+}
+
+.repeat-collapse-container > * > * {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.repeat-text {
+  font-size: 14px !important;
+  margin: 3px !important;
+}

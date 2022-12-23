@@ -1,33 +1,27 @@
-import React, { createContext, useEffect, useState } from "react";
-import source from "./assets/data/words.json";
+import React, { createContext, useState } from "react";
+import data from "./assets/data/words.json";
 
 export const WordsContext = createContext();
 
 function ContextProvider({ children }) {
-  const [words, setWords] = useState(source);
-  const [modal, setModal] = useState(false);
-  const [data, setData] = useState();
-  const [page, setPage] = useState(0);
-  const [pages, setPages] = useState([]);
-
-  useEffect(() => {
-    for (let page = 0; page < 504 / 12; page++) {
-      pages.push(page);
-    }
-  }, []);
+  const [words, setWords] = useState(
+    JSON.parse(localStorage.getItem("source")) || data
+  );
+  const [page, setPage] = useState(1);
+  const [repeat, setRepeat] = useState(
+    JSON.parse(localStorage.getItem("repeat")) || []
+  );
 
   return (
     <WordsContext.Provider
       value={{
+        data,
         words,
         setWords,
-        modal,
-        setModal,
-        data,
-        setData,
-        pages,
         page,
         setPage,
+        repeat,
+        setRepeat,
       }}
     >
       {children}

@@ -1,40 +1,72 @@
+import PropTypes from "prop-types";
 import { Button, Card, Collapse, Typography } from "@mui/material";
-import React, { useContext, useState } from "react";
+import React, { useContext, useEffect, useState } from "react";
 import SendIcon from "@mui/icons-material/Send";
 import CancelIcon from "@mui/icons-material/Cancel";
 import PlayButton from "./PlayButton";
 import { WordsContext } from "./ContextProvider";
-import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
+import { AiOutlineDown, AiOutlineUp } from "react-icons/ai";
 
 function WordCard({ word }) {
-  const { modal, setModal, setData } = useContext(WordsContext);
+  const { repeat, setRepeat, words, page } = useContext(WordsContext);
   const [expand, setExpand] = useState(false);
+  const [done, setDone] = useState(false);
 
-  const handleModal = (word) => {
-    setData(word);
-    setModal(!modal);
+  useEffect(() => {
+    localStorage.setItem("repeat", JSON.stringify(repeat));
+  }, [repeat]);
+
+  const handleDone = () => {
+    let ind = words[page - 1].words.findIndex(
+      (item) => item.word === word.word
+    );
+    console.log("ind", ind);
+    words[page - 1].words[ind].done = true;
+    console.log(words[page - 1].words[ind].word);
+    // word.done = true;
+    // setDone(true)
+    localStorage.setItem("source", JSON.stringify(words));
+    console.log(words);
   };
 
   const handleExpand = () => {
     setExpand(!expand);
   };
+
+  const handleNotYet = () => {
+    if (!repeat.includes(word.word)) {
+      setRepeat([...repeat, word.word]);
+      handleDone();
+    }
+  };
+
   return (
     <Card
       key={word.word}
       className="word-card"
       variant="outlined"
+      // style={{ display: word.done ? "none" : "block" }}
       // onClick={() => handleModal(word)}
     >
       <div className="card-header">
         <p className="word">{word.word}</p>
-        <Button onClick={handleExpand} endIcon={<ExpandMoreIcon />} />
-        <PlayButton word={word.word} className="play-button" />
+        {expand ? (
+          <AiOutlineUp className="see-more-button" onClick={handleExpand} />
+        ) : (
+          <AiOutlineDown className="see-more-button" onClick={handleExpand} />
+        )}
+        <PlayButton word={word.word} className="play-button" expand={expand} />
       </div>
       <Collapse in={expand}>
         <Typography sx={{ marginBottom: 2 }}>{word.meaning}</Typography>
       </Collapse>
       <div className="buttons">
-        <Button color="error" variant="outlined" endIcon={<CancelIcon />}>
+        <Button
+          color="error"
+          variant="outlined"
+          endIcon={<CancelIcon />}
+          onClick={handleNotYet}
+        >
           NOT YET
         </Button>
         <Button
@@ -42,6 +74,7 @@ function WordCard({ word }) {
           color="primary"
           variant="contained"
           endIcon={<SendIcon />}
+          onClick={handleDone}
         >
           DONE
         </Button>
@@ -51,3 +84,7 @@ function WordCard({ word }) {
 }
 
 export default WordCard;
+
+WordCard.propTypes = {
+  word: PropTypes.object,
+};

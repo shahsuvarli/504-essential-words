@@ -1,6 +1,6 @@
-@import url(card-modal.css);
 @import url(word-card.css);
 @import url(pagination.css);
+@import url(repeat.css);
 
 body {
   margin: 0;
@@ -33,7 +33,7 @@ code {
   justify-content: center;
   gap: 10px;
   width: 95%;
-  margin-top: 50px;
+  margin-top: 15px;
 }
 
 .meaning {
