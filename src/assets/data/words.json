@@ -5,54 +5,54 @@
       {
         "word": "abandon",
         "meaning": "desert; leave without planning to come back; quit",
-        "done": false
+        "status": ""
       },
       {
         "word": "keen",
         "meaning": "sharp; eager; intense; sensitive",
-        "done": false
+        "status": ""
       },
       {
         "word": "jealous",
         "meaning": "afraid that the one you love might prefer someone else; wanting what someone else has",
-        "done": false
+        "status": ""
       },
       {
         "word": "tact",
         "meaning": "ability to say the right thing",
-        "done": false
+        "status": ""
       },
       {
         "word": "oath",
         "meaning": "a promise that something is true; a curse",
-        "done": false
+        "status": ""
       },
-      { "word": "vacant", "meaning": "empty; not filled", "done": false },
+      { "word": "vacant", "meaning": "empty; not filled", "status": "" },
       {
         "word": "hardship",
         "meaning": "something that is hard to bear; difficulty",
-        "done": false
+        "status": ""
       },
       {
         "word": "gallant",
         "meaning": "brave; showing respect for women",
-        "done": false
+        "status": ""
       },
-      { "word": "data", "meaning": "facts; information", "done": false },
+      { "word": "data", "meaning": "facts; information", "status": "" },
       {
         "word": "unaccustomed",
         "meaning": "not used to something",
-        "done": false
+        "status": ""
       },
       {
         "word": "bachelor",
         "meaning": "a man who has not married",
-        "done": false
+        "status": ""
       },
       {
         "word": "qualify",
         "meaning": "become fit; show that you are able",
-        "done": false
+        "status": ""
       }
     ],
     "finished": false
@@ -63,84 +63,84 @@
       {
         "word": "corpse",
         "meaning": "a dead body, usually of a person",
-        "done": false
+        "status": ""
       },
-      { "word": "conceal", "meaning": "hide", "done": false },
-      { "word": "dismal", "meaning": "dark and depressing", "done": false },
-      { "word": "frigid", "meaning": "very cold", "done": false },
-      { "word": "inhabit", "meaning": "live in", "done": false },
+      { "word": "conceal", "meaning": "hide", "status": "" },
+      { "word": "dismal", "meaning": "dark and depressing", "status": "" },
+      { "word": "frigid", "meaning": "very cold", "status": "" },
+      { "word": "inhabit", "meaning": "live in", "status": "" },
       {
         "word": "numb",
         "meaning": "without the power of feeling; deadened",
-        "done": false
+        "status": ""
       },
-      { "word": "peril", "meaning": "danger", "done": false },
+      { "word": "peril", "meaning": "danger", "status": "" },
       {
         "word": "recline",
         "meaning": "lie down; stretch out; lean back",
-        "done": false
+        "status": ""
       },
-      { "word": "shriek", "meaning": "scream", "done": false },
+      { "word": "shriek", "meaning": "scream", "status": "" },
       {
         "word": "sinister",
         "meaning": "evil; wicked; dishonest; frightening",
-        "done": false
+        "status": ""
       },
       {
         "word": "tempt",
         "meaning": "try to get someone to do something; test; invite",
-        "done": false
+        "status": ""
       },
-      { "word": "wager", "meaning": "bet", "done": false }
+      { "word": "wager", "meaning": "bet", "status": "" }
     ],
     "finished": false
   },
   {
     "lesson": 3,
     "words": [
-      { "word": "typical", "meaning": "usual; of a kind", "done": false },
+      { "word": "typical", "meaning": "usual; of a kind", "status": "" },
       {
         "word": "minimum",
         "meaning": "the least possible amount; the lowest amount",
-        "done": false
+        "status": ""
       },
-      { "word": "scarce", "meaning": "hard to get; rare", "done": false },
+      { "word": "scarce", "meaning": "hard to get; rare", "status": "" },
       {
         "word": "annual",
         "meaning": "once a year; something that appears yearly or lasts for a year",
-        "done": false
+        "status": ""
       },
       {
         "word": "persuade",
         "meaning": "win over to do or believe; make willing",
-        "done": false
+        "status": ""
       },
       {
         "word": "essential",
         "meaning": "necessary; very important",
-        "done": false
+        "status": ""
       },
       {
         "word": "blend",
         "meaning": "mix together thoroughly; a mixture",
-        "done": false
+        "status": ""
       },
-      { "word": "visible", "meaning": "able to be seen", "done": false },
+      { "word": "visible", "meaning": "able to be seen", "status": "" },
       {
         "word": "expensive",
         "meaning": "costly; high-priced",
-        "done": false
+        "status": ""
       },
-      { "word": "talent", "meaning": "natural ability", "done": false },
+      { "word": "talent", "meaning": "natural ability", "status": "" },
       {
         "word": "devise",
         "meaning": "think out; plan; invent",
-        "done": false
+        "status": ""
       },
       {
         "word": "wholesale",
         "meaning": "in large quantity; less than retail in price",
-        "done": false
+        "status": ""
       }
     ],
     "finished": false
@@ -151,46 +151,46 @@
       {
         "word": "vapor",
         "meaning": "moisture in the air that can be seen; fog; mist",
-        "done": false
+        "status": ""
       },
       {
         "word": "eliminate",
         "meaning": "get rid of; remove; omit",
-        "done": false
+        "status": ""
       },
-      { "word": "villain", "meaning": "a very wicked person", "done": false },
+      { "word": "villain", "meaning": "a very wicked person", "status": "" },
       {
         "word": "dense",
         "meaning": "closely packed together; thick",
-        "done": false
+        "status": ""
       },
-      { "word": "utilize", "meaning": "make use of", "done": false },
-      { "word": "humid", "meaning": "moist; damp", "done": false },
+      { "word": "utilize", "meaning": "make use of", "status": "" },
+      { "word": "humid", "meaning": "moist; damp", "status": "" },
       {
         "word": "theory",
         "meaning": "explanation based on thought, observation, or reasoning",
-        "done": false
+        "status": ""
       },
       {
         "word": "descend",
         "meaning": "go or come down from a higher place to a lower level",
-        "done": false
+        "status": ""
       },
       {
         "word": "circulate",
         "meaning": "go around; go from place to place or person to person",
-        "done": false
+        "status": ""
       },
       {
         "word": "enormous",
         "meaning": "extremely large; huge",
-        "done": false
+        "status": ""
       },
-      { "word": "predict", "meaning": "tell beforehand", "done": false },
+      { "word": "predict", "meaning": "tell beforehand", "status": "" },
       {
         "word": "vanish",
         "meaning": "disappear; disappear suddenly",
-        "done": false
+        "status": ""
       }
     ],
     "finished": false
@@ -201,58 +201,58 @@
       {
         "word": "tradition",
         "meaning": "beliefs, opinions, and customs handed down from one generation to another",
-        "done": false
+        "status": ""
       },
-      { "word": "rural", "meaning": "in the country", "done": false },
+      { "word": "rural", "meaning": "in the country", "status": "" },
       {
         "word": "burden",
         "meaning": "what is carried; a load",
-        "done": false
+        "status": ""
       },
       {
         "word": "campus",
         "meaning": "grounds of a college, university, or school",
-        "done": false
+        "status": ""
       },
       {
         "word": "majority",
         "meaning": "the larger number; greater part; more than half",
-        "done": false
+        "status": ""
       },
       {
         "word": "assemble",
         "meaning": "gather together; bring together",
-        "done": false
+        "status": ""
       },
       {
         "word": "explore",
         "meaning": "go over carefully; look into closely; examine",
-        "done": false
+        "status": ""
       },
       {
         "word": "topic",
         "meaning": "subject that people think, write, or talk about",
-        "done": false
+        "status": ""
       },
       {
         "word": "debate",
         "meaning": "a discussion in which reasons for and against something are brought out",
-        "done": false
+        "status": ""
       },
       {
         "word": "evade",
         "meaning": "get away from by trickery or cleverness",
-        "done": false
+        "status": ""
       },
       {
         "word": "probe",
         "meaning": "search into; examine thoroughly; investigate",
-        "done": false
+        "status": ""
       },
       {
         "word": "reform",
         "meaning": "make better; improve by removing faults",
-        "done": false
+        "status": ""
       }
     ],
     "finished": false
@@ -263,54 +263,54 @@
       {
         "word": "approach",
         "meaning": "come near or nearer to",
-        "done": false
+        "status": ""
       },
-      { "word": "detect", "meaning": "find out; discover", "done": false },
+      { "word": "detect", "meaning": "find out; discover", "status": "" },
       {
         "word": "defect",
         "meaning": "fault; that which is wrong",
-        "done": false
+        "status": ""
       },
       {
         "word": "employee",
         "meaning": "a person who works for pay",
-        "done": false
+        "status": ""
       },
       {
         "word": "neglect",
         "meaning": "give too little care or attention to",
-        "done": false
+        "status": ""
       },
       {
         "word": "deceive",
         "meaning": "make someone believe as true something that is false; mislead",
-        "done": false
+        "status": ""
       },
       {
         "word": "undoubtedly",
         "meaning": "certainly; beyond doubt",
-        "done": false
+        "status": ""
       },
-      { "word": "popular", "meaning": "liked by most people", "done": false },
+      { "word": "popular", "meaning": "liked by most people", "status": "" },
       {
         "word": "thorough",
         "meaning": "being all that is needed; complete",
-        "done": false
+        "status": ""
       },
       {
         "word": "client",
         "meaning": "person for whom a lawyer acts; customer",
-        "done": false
+        "status": ""
       },
       {
         "word": "comprehensive",
         "meaning": "including much; covering completely",
-        "done": false
+        "status": ""
       },
       {
         "word": "defraud",
         "meaning": "take money, rights, etc., away by cheating",
-        "done": false
+        "status": ""
       }
     ],
     "finished": false
@@ -321,62 +321,62 @@
       {
         "word": "postpone",
         "meaning": "put off to a later time; delay",
-        "done": false
+        "status": ""
       },
       {
         "word": "consent",
         "meaning": "agree; give permission or approval",
-        "done": false
+        "status": ""
       },
       {
         "word": "massive",
         "meaning": "big and heavy; large and solid; bulky",
-        "done": false
+        "status": ""
       },
       {
         "word": "capsule",
         "meaning": "a small case or covering",
-        "done": false
+        "status": ""
       },
       {
         "word": "preserve",
         "meaning": "keep from harm or change; keep safe; protect",
-        "done": false
+        "status": ""
       },
       {
         "word": "denounce",
         "meaning": "condemn in public; express strong disapproval of",
-        "done": false
+        "status": ""
       },
       {
         "word": "unique",
         "meaning": "having no like or equal; being the only one of its kind",
-        "done": false
+        "status": ""
       },
       {
         "word": "torrent",
         "meaning": "any violent, rushing stream; flood",
-        "done": false
+        "status": ""
       },
       {
         "word": "resent",
         "meaning": "feel injured and angered at (something)",
-        "done": false
+        "status": ""
       },
       {
         "word": "molest",
         "meaning": "interfere with and trouble; disturb",
-        "done": false
+        "status": ""
       },
       {
         "word": "gloomy",
         "meaning": "dark; dim; in low spirits",
-        "done": false
+        "status": ""
       },
       {
         "word": "unforeseen",
         "meaning": "not known beforehand; unexpected",
-        "done": false
+        "status": ""
       }
     ],
     "finished": false
@@ -387,54 +387,54 @@
       {
         "word": "exaggerate",
         "meaning": "make something greater than it is; overstate",
-        "done": false
+        "status": ""
       },
       {
         "word": "amateur",
         "meaning": "person who does something for pleasure, not for money or as a profession",
-        "done": false
+        "status": ""
       },
       {
         "word": "mediocre",
         "meaning": "neither good nor bad; average; ordinary",
-        "done": false
+        "status": ""
       },
       {
         "word": "variety",
         "meaning": "lack of sameness; a number of different things",
-        "done": false
+        "status": ""
       },
       {
         "word": "valid",
         "meaning": "supported by facts or authority; sound; true",
-        "done": false
+        "status": ""
       },
       {
         "word": "survive",
         "meaning": "live longer than; remain alive after",
-        "done": false
+        "status": ""
       },
-      { "word": "weird", "meaning": "mystrious; unearthly", "done": false },
+      { "word": "weird", "meaning": "mystrious; unearthly", "status": "" },
       {
         "word": "prominent",
         "meaning": "well-known; important",
-        "done": false
+        "status": ""
       },
       {
         "word": "security",
         "meaning": "freedom from danger, care, or fear; feeling or condition of being safe",
-        "done": false
+        "status": ""
       },
       {
         "word": "bulky",
         "meaning": "taking up much space; large",
-        "done": false
+        "status": ""
       },
-      { "word": "reluctant", "meaning": "unwilling", "done": false },
+      { "word": "reluctant", "meaning": "unwilling", "status": "" },
       {
         "word": "obvious",
         "meaning": "easily seen or understood; clear to the eye or mind; not to be doubted; plain",
-        "done": false
+        "status": ""
       }
     ],
     "finished": false
@@ -445,50 +445,50 @@
       {
         "word": "vicinity",
         "meaning": "region near a place; neighborhood",
-        "done": false
+        "status": ""
       },
-      { "word": "century", "meaning": "100 years", "done": false },
+      { "word": "century", "meaning": "100 years", "status": "" },
       {
         "word": "rage",
         "meaning": "violent anger; something that arouses intense but brief enthusiasm",
-        "done": false
+        "status": ""
       },
       {
         "word": "document",
         "meaning": "something handwritten or printed that gives information or proof of some fact",
-        "done": false
+        "status": ""
       },
-      { "word": "conclude", "meaning": "end; finish; decide", "done": false },
+      { "word": "conclude", "meaning": "end; finish; decide", "status": "" },
       {
         "word": "undeniable",
         "meaning": "not to be denied; cannot be questioned",
-        "done": false
+        "status": ""
       },
       {
         "word": "resist",
         "meaning": "act against; strive against; oppose",
-        "done": false
+        "status": ""
       },
       {
         "word": "lack",
         "meaning": "be entirely without something; have not enough",
-        "done": false
+        "status": ""
       },
       {
         "word": "ignore",
         "meaning": "pay no attention to; disregard",
-        "done": false
+        "status": ""
       },
-      { "word": "challenge", "meaning": "call to a fight", "done": false },
+      { "word": "challenge", "meaning": "call to a fight", "status": "" },
       {
         "word": "miniature",
         "meaning": "represented on a small scale",
-        "done": false
+        "status": ""
       },
       {
         "word": "source",
         "meaning": "place from which something comes or is obtained",
-        "done": false
+        "status": ""
       }
     ],
     "finished": false
@@ -499,42 +499,42 @@
       {
         "word": "excel",
         "meaning": "be better than; do better than",
-        "done": false
+        "status": ""
       },
-      { "word": "feminine", "meaning": "of women or girls", "done": false },
-      { "word": "mount", "meaning": "get up on", "done": false },
+      { "word": "feminine", "meaning": "of women or girls", "status": "" },
+      { "word": "mount", "meaning": "get up on", "status": "" },
       {
         "word": "compete",
         "meaning": "try hard to get something wanted by others; be a rival",
-        "done": false
+        "status": ""
       },
       {
         "word": "dread",
         "meaning": "look forward to with fear; fear greatly; causing great fear",
-        "done": false
+        "status": ""
       },
-      { "word": "masculine", "meaning": "of man; male", "done": false },
-      { "word": "menace", "meaning": "threat", "done": false },
+      { "word": "masculine", "meaning": "of man; male", "status": "" },
+      { "word": "menace", "meaning": "threat", "status": "" },
       {
         "word": "tendency",
         "meaning": "leaning; movement in a certain direction",
-        "done": false
+        "status": ""
       },
       {
         "word": "underestimate",
         "meaning": "set too low a value, amount, or rate",
-        "done": false
+        "status": ""
       },
       {
         "word": "victorious",
         "meaning": "having won a victory; conquering",
-        "done": false
+        "status": ""
       },
-      { "word": "numerous", "meaning": "very many; several", "done": false },
+      { "word": "numerous", "meaning": "very many; several", "status": "" },
       {
         "word": "flexible",
         "meaning": "easily bent; willing to yield",
-        "done": false
+        "status": ""
       }
     ],
     "finished": false
@@ -545,50 +545,50 @@
       {
         "word": "evidence",
         "meaning": "that which makes clear the truth or falsehood of something",
-        "done": false
+        "status": ""
       },
-      { "word": "solitary", "meaning": "alone; single; only", "done": false },
+      { "word": "solitary", "meaning": "alone; single; only", "status": "" },
       {
         "word": "vision",
         "meaning": "power of seeing; sense of sight",
-        "done": false
+        "status": ""
       },
       {
         "word": "frequent",
         "meaning": "happening often; occurring repeatedly",
-        "done": false
+        "status": ""
       },
-      { "word": "glimpse", "meaning": "a short, quick view", "done": false },
+      { "word": "glimpse", "meaning": "a short, quick view", "status": "" },
       {
         "word": "recent",
         "meaning": "done, made, or occurring not long ago",
-        "done": false
+        "status": ""
       },
-      { "word": "decade", "meaning": "ten years", "done": false },
+      { "word": "decade", "meaning": "ten years", "status": "" },
       {
         "word": "hesitate",
         "meaning": "fail to act quickly; be undecided",
-        "done": false
+        "status": ""
       },
       {
         "word": "absurd",
         "meaning": "plainly not true or sensible; foolish",
-        "done": false
+        "status": ""
       },
       {
         "word": "conflict",
         "meaning": "direct opposition; disagreement",
-        "done": false
+        "status": ""
       },
       {
         "word": "minority",
         "meaning": "smaller number or part; less than half",
-        "done": false
+        "status": ""
       },
       {
         "word": "fiction",
         "meaning": "that which is imagined or made up",
-        "done": false
+        "status": ""
       }
     ],
     "finished": false
@@ -596,46 +596,46 @@
   {
     "lesson": 12,
     "words": [
-      { "word": "ignite", "meaning": "set on fire", "done": false },
+      { "word": "ignite", "meaning": "set on fire", "status": "" },
       {
         "word": "abolish",
         "meaning": "do away with completely; put an end to",
-        "done": false
+        "status": ""
       },
       {
         "word": "urban",
         "meaning": "of or having to do with cities or towns",
-        "done": false
+        "status": ""
       },
       {
         "word": "population",
         "meaning": "people of a city or country",
-        "done": false
+        "status": ""
       },
       {
         "word": "frank",
         "meaning": "free in expressing one's real thoughts, opinions, or feelings; not hiding what is in one's mind",
-        "done": false
+        "status": ""
       },
-      { "word": "pollute", "meaning": "make dirty", "done": false },
-      { "word": "reveal", "meaning": "make known", "done": false },
+      { "word": "pollute", "meaning": "make dirty", "status": "" },
+      { "word": "reveal", "meaning": "make known", "status": "" },
       {
         "word": "prohibit",
         "meaning": "forbid by law or authority",
-        "done": false
+        "status": ""
       },
       {
         "word": "urgent",
         "meaning": "demanding immediate action or attention; important",
-        "done": false
+        "status": ""
       },
       {
         "word": "adequate",
         "meaning": "as much as is needed; fully sufficient",
-        "done": false
+        "status": ""
       },
-      { "word": "decrease", "meaning": "make or become less", "done": false },
-      { "word": "audible", "meaning": "able to be heard", "done": false }
+      { "word": "decrease", "meaning": "make or become less", "status": "" },
+      { "word": "audible", "meaning": "able to be heard", "status": "" }
     ],
     "finished": false
   },
@@ -645,51 +645,51 @@
       {
         "word": "journalist",
         "meaning": "one who writes for, edits, manages, or produces a newspaper or magazine",
-        "done": false
+        "status": ""
       },
       {
         "word": "famine",
         "meaning": "starvation; great shortage",
-        "done": false
+        "status": ""
       },
       {
         "word": "revive",
         "meaning": "bring back or come back to life or consciousness",
-        "done": false
+        "status": ""
       },
-      { "word": "commence", "meaning": "begin; start", "done": false },
+      { "word": "commence", "meaning": "begin; start", "status": "" },
       {
         "word": "observant",
         "meaning": "quick to notice; watchful",
-        "done": false
+        "status": ""
       },
       {
         "word": "identify",
         "meaning": "recognize as being, or show to be, a certain person or thing; prove to be the same",
-        "done": false
+        "status": ""
       },
       {
         "word": "migrate",
         "meaning": "move from one place to another",
-        "done": false
+        "status": ""
       },
       {
         "word": "vessel",
         "meaning": "a ship; a hollow container; tube containing body fluid",
-        "done": false
+        "status": ""
       },
       {
         "word": "persist",
         "meaning": "continue firmly; refuse to stop or be changed",
-        "done": false
+        "status": ""
       },
-      { "word": "hazy", "meaning": "misty; smoky; unclear", "done": false },
+      { "word": "hazy", "meaning": "misty; smoky; unclear", "status": "" },
       {
         "word": "gleam",
         "meaning": "a flash or beam of lightperson who prepares a publication; one who corrects a manuscript and helps to improve it",
-        "done": false
+        "status": ""
       },
-      { "word": "editor", "meaning": "", "done": false }
+      { "word": "editor", "meaning": "", "status": "" }
     ],
     "finished": false
   },
@@ -699,54 +699,54 @@
       {
         "word": "unruly",
         "meaning": "hard to rule or control; lawless",
-        "done": false
+        "status": ""
       },
       {
         "word": "rival",
         "meaning": "person who wants and tries to get the same thing as another; one who tries to equal or do better than another",
-        "done": false
+        "status": ""
       },
       {
         "word": "violent",
         "meaning": "acting or done with strong, rough force",
-        "done": false
+        "status": ""
       },
       {
         "word": "brutal",
         "meaning": "coarse and savage; like a brute; cruel",
-        "done": false
+        "status": ""
       },
       {
         "word": "opponent",
         "meaning": "person who is on the other side of a fight, game, or discussion; person fighting, struggling or speaking against another",
-        "done": false
+        "status": ""
       },
       {
         "word": "brawl",
         "meaning": "a noisy quarrel or fight",
-        "done": false
+        "status": ""
       },
       {
         "word": "duplicate",
         "meaning": "an exact copy; make an exact copy of; repeat exactly",
-        "done": false
+        "status": ""
       },
-      { "word": "vicious", "meaning": "evil; wicked; savage", "done": false },
+      { "word": "vicious", "meaning": "evil; wicked; savage", "status": "" },
       {
         "word": "whirling",
         "meaning": "turning or swinging round and round; spinning",
-        "done": false
+        "status": ""
       },
       {
         "word": "underdog",
         "meaning": "person having the worst of any struggle; one who is expected to lose",
-        "done": false
+        "status": ""
       },
-      { "word": "thrust", "meaning": "push with force", "done": false },
+      { "word": "thrust", "meaning": "push with force", "status": "" },
       {
         "word": "bewildered",
         "meaning": "confused completely; puzzled",
-        "done": false
+        "status": ""
       }
     ],
     "finished": false
@@ -757,54 +757,54 @@
       {
         "word": "expand",
         "meaning": "increase in size; enlarge; swell",
-        "done": false
+        "status": ""
       },
       {
         "word": "alter",
         "meaning": "make different; change; vary",
-        "done": false
+        "status": ""
       },
       {
         "word": "mature",
         "meaning": "ripe; fully grown or developed",
-        "done": false
+        "status": ""
       },
       {
         "word": "sacred",
         "meaning": "worthy of respect; holy",
-        "done": false
+        "status": ""
       },
       {
         "word": "revise",
         "meaning": "change; alter; bring up to date",
-        "done": false
+        "status": ""
       },
-      { "word": "pledge", "meaning": "promise", "done": false },
+      { "word": "pledge", "meaning": "promise", "status": "" },
       {
         "word": "casual",
         "meaning": "happening by chance; not planned or expected; not calling attention to itself",
-        "done": false
+        "status": ""
       },
-      { "word": "pursue", "meaning": "follow; proceed along", "done": false },
+      { "word": "pursue", "meaning": "follow; proceed along", "status": "" },
       {
         "word": "unanimous",
         "meaning": "in complete agreement",
-        "done": false
+        "status": ""
       },
       {
         "word": "fortunate",
         "meaning": "having good luck; lucky",
-        "done": false
+        "status": ""
       },
       {
         "word": "pioneer",
         "meaning": "one who goes first or prepares a way for others",
-        "done": false
+        "status": ""
       },
       {
         "word": "innovative",
         "meaning": "fresh; clever; having new ideas",
-        "done": false
+        "status": ""
       }
     ],
     "finished": false
@@ -815,58 +815,58 @@
       {
         "word": "slender",
         "meaning": "long and thin; limited; slight",
-        "done": false
+        "status": ""
       },
       {
         "word": "surpass",
         "meaning": "do better than; be greater than; excel",
-        "done": false
+        "status": ""
       },
-      { "word": "vast", "meaning": "very great; enormous", "done": false },
+      { "word": "vast", "meaning": "very great; enormous", "status": "" },
       {
         "word": "doubt",
         "meaning": "not believe; not be sure of; feel uncertain about; lack of certainty",
-        "done": false
+        "status": ""
       },
       {
         "word": "capacity",
         "meaning": "amount of room or space inside; largest amount that can be held by a container",
-        "done": false
+        "status": ""
       },
       {
         "word": "penetrate",
         "meaning": "get into or through",
-        "done": false
+        "status": ""
       },
       {
         "word": "pierce",
         "meaning": "go into; go through; penetrate",
-        "done": false
+        "status": ""
       },
       {
         "word": "accurate",
         "meaning": "exactly right as the result of care or pains",
-        "done": false
+        "status": ""
       },
       {
         "word": "microscope",
         "meaning": "instrument with a lens for making objects larger so that one can see things more clearly",
-        "done": false
+        "status": ""
       },
       {
         "word": "grateful",
         "meaning": "feeling gratitude; thankful",
-        "done": false
+        "status": ""
       },
       {
         "word": "cautious",
         "meaning": "very careful; never taking chances",
-        "done": false
+        "status": ""
       },
       {
         "word": "confident",
         "meaning": "firmly believing; certain; sure",
-        "done": false
+        "status": ""
       }
     ],
     "finished": false
@@ -877,47 +877,47 @@
       {
         "word": "appeal",
         "meaning": "attraction; interest; to urge",
-        "done": false
+        "status": ""
       },
       {
         "word": "addict",
         "meaning": "one who cannot break away from a habit or practice; addicted unable to break a habit",
-        "done": false
+        "status": ""
       },
       {
         "word": "wary",
         "meaning": "on one's guard against danger or trickery; cautious",
-        "done": false
+        "status": ""
       },
-      { "word": "aware", "meaning": "knowing; realizing", "done": false },
-      { "word": "misfortune", "meaning": "bad luck", "done": false },
+      { "word": "aware", "meaning": "knowing; realizing", "status": "" },
+      { "word": "misfortune", "meaning": "bad luck", "status": "" },
       {
         "word": "avoid",
         "meaning": "keep away from; keep out of the way of",
-        "done": false
+        "status": ""
       },
       {
         "word": "wretched",
         "meaning": "very unsatisfactory; miserable",
-        "done": false
+        "status": ""
       },
       {
         "word": "keg",
         "meaning": "small barrel, usually holding less than ten gallons",
-        "done": false
+        "status": ""
       },
       {
         "word": "nourish",
         "meaning": "make or keep alive and well, with food; feed; develop an attitude",
-        "done": false
+        "status": ""
       },
       {
         "word": "harsh",
         "meaning": "rough to the touch, taste, eye, or ear; sharp",
-        "done": false
+        "status": ""
       },
-      { "word": "quantity", "meaning": "amount", "done": false },
-      { "word": "opt", "meaning": "choose or favor; select", "done": false }
+      { "word": "quantity", "meaning": "amount", "status": "" },
+      { "word": "opt", "meaning": "choose or favor; select", "status": "" }
     ],
     "finished": false
   },
@@ -927,54 +927,54 @@
       {
         "word": "tragedy",
         "meaning": "a very sad or trrible happening; a sad play",
-        "done": false
+        "status": ""
       },
       {
         "word": "pedestrian",
         "meaning": "person who goes on foot; walker",
-        "done": false
+        "status": ""
       },
       {
         "word": "glance",
         "meaning": "to look at quickly; a quick look",
-        "done": false
+        "status": ""
       },
       {
         "word": "budget",
         "meaning": "estimate of the amount of money that can be spent for different purposes in a given time",
-        "done": false
+        "status": ""
       },
       {
         "word": "nimble",
         "meaning": "active and sure-footed; quick moving; light and quick",
-        "done": false
+        "status": ""
       },
       {
         "word": "manipulate",
         "meaning": "handle or treat skillfully",
-        "done": false
+        "status": ""
       },
       {
         "word": "reckless",
         "meaning": "careless; heedless; wild",
-        "done": false
+        "status": ""
       },
-      { "word": "horrid", "meaning": "terrible; frightful", "done": false },
-      { "word": "rave", "meaning": "talk wildly", "done": false },
+      { "word": "horrid", "meaning": "terrible; frightful", "status": "" },
+      { "word": "rave", "meaning": "talk wildly", "status": "" },
       {
         "word": "economical",
         "meaning": "not wasting money or time",
-        "done": false
+        "status": ""
       },
       {
         "word": "lubricate",
         "meaning": "make (machinary) smooth and easy to work by putting on oil, grease, or a similar substance",
-        "done": false
+        "status": ""
       },
       {
         "word": "ingenious",
         "meaning": "having great mental ability; clever",
-        "done": false
+        "status": ""
       }
     ],
     "finished": false
@@ -985,58 +985,58 @@
       {
         "word": "harvest",
         "meaning": "gathering in of grain or other food crops",
-        "done": false
+        "status": ""
       },
       {
         "word": "abundant",
         "meaning": "more than enough; very plentiful",
-        "done": false
+        "status": ""
       },
       {
         "word": "uneasy",
         "meaning": "restless; disturbed; anxious",
-        "done": false
+        "status": ""
       },
       {
         "word": "calculate",
         "meaning": "find out by adding, subtracting, multiplying, or dividing; figure",
-        "done": false
+        "status": ""
       },
       {
         "word": "absorb",
         "meaning": "take in or suck up (liquids); interest greatly",
-        "done": false
+        "status": ""
       },
       {
         "word": "estimate",
         "meaning": "form a judgment or opinion about; guess",
-        "done": false
+        "status": ""
       },
       {
         "word": "morsel",
         "meaning": "a small bite; mouthful; tiny amount",
-        "done": false
+        "status": ""
       },
       {
         "word": "quota",
         "meaning": "share of a total due from or to a particular state, district, person, etc.",
-        "done": false
+        "status": ""
       },
       {
         "word": "threat",
         "meaning": "sign or cause of possible evil or harm",
-        "done": false
+        "status": ""
       },
-      { "word": "ban", "meaning": "prohibit; forbid", "done": false },
+      { "word": "ban", "meaning": "prohibit; forbid", "status": "" },
       {
         "word": "panic",
         "meaning": "unreasoning fear; fear spreading through a group of people so that they lose control of themselves",
-        "done": false
+        "status": ""
       },
       {
         "word": "appropriate",
         "meaning": "fit; set apart for some special use",
-        "done": false
+        "status": ""
       }
     ],
     "finished": false
@@ -1047,54 +1047,54 @@
       {
         "word": "emerge",
         "meaning": "come out; come up; come into view",
-        "done": false
+        "status": ""
       },
       {
         "word": "jagged",
         "meaning": "with sharp points sticking out; unevenly cut or torn",
-        "done": false
+        "status": ""
       },
       {
         "word": "linger",
         "meaning": "stay on; go slowly as if unwilling to leave",
-        "done": false
+        "status": ""
       },
       {
         "word": "ambush",
         "meaning": "a trap in which soldiers or othe enemies hide to make a surprise attack",
-        "done": false
+        "status": ""
       },
       {
         "word": "crafty",
         "meaning": "skillful in deceiving others; sly; tricky",
-        "done": false
+        "status": ""
       },
       {
         "word": "defiant",
         "meaning": "openly resisting; challenging",
-        "done": false
+        "status": ""
       },
       {
         "word": "vigor",
         "meaning": "active strength or force",
-        "done": false
+        "status": ""
       },
-      { "word": "perish", "meaning": "be destroyed; die", "done": false },
+      { "word": "perish", "meaning": "be destroyed; die", "status": "" },
       {
         "word": "fragile",
         "meaning": "easily broken, damaged, or destroyed; delicate",
-        "done": false
+        "status": ""
       },
-      { "word": "captive", "meaning": "prisoner", "done": false },
+      { "word": "captive", "meaning": "prisoner", "status": "" },
       {
         "word": "prosper",
         "meaning": "be successful; have good fortune",
-        "done": false
+        "status": ""
       },
       {
         "word": "devour",
         "meaning": "eat hungrily; absorb completely; take in greedily",
-        "done": false
+        "status": ""
       }
     ],
     "finished": false
@@ -1105,50 +1105,50 @@
       {
         "word": "plea",
         "meaning": "request; appeal; that which is asked of another",
-        "done": false
+        "status": ""
       },
-      { "word": "weary", "meaning": "tired", "done": false },
+      { "word": "weary", "meaning": "tired", "status": "" },
       {
         "word": "collide",
         "meaning": "come together with force",
-        "done": false
+        "status": ""
       },
       {
         "word": "confirm",
         "meaning": "prove to be true or correct; make certain",
-        "done": false
+        "status": ""
       },
       {
         "word": "verify",
         "meaning": "prove to be true; confirm",
-        "done": false
+        "status": ""
       },
       {
         "word": "anticipate",
         "meaning": "look forward to; expect",
-        "done": false
+        "status": ""
       },
       {
         "word": "dilemma",
         "meaning": "situation requiring a choice between two evils; a difficult choice",
-        "done": false
+        "status": ""
       },
-      { "word": "detour", "meaning": "a roundabout way", "done": false },
-      { "word": "merit", "meaning": "goodness; worth; value", "done": false },
+      { "word": "detour", "meaning": "a roundabout way", "status": "" },
+      { "word": "merit", "meaning": "goodness; worth; value", "status": "" },
       {
         "word": "transmit",
         "meaning": "send over; pass on; pass along; let through",
-        "done": false
+        "status": ""
       },
       {
         "word": "relieve",
         "meaning": "make less; make easier; reduce the pain of; replace; release; free",
-        "done": false
+        "status": ""
       },
       {
         "word": "baffle",
         "meaning": "be too hard to understand or solve",
-        "done": false
+        "status": ""
       }
     ],
     "finished": false
@@ -1159,54 +1159,54 @@
       {
         "word": "warden",
         "meaning": "keeper; guard; person in charge of a prison",
-        "done": false
+        "status": ""
       },
-      { "word": "acknowledge", "meaning": "admit to be true", "done": false },
+      { "word": "acknowledge", "meaning": "admit to be true", "status": "" },
       {
         "word": "justice",
         "meaning": "just conduct; fair dealing",
-        "done": false
+        "status": ""
       },
       {
         "word": "delinquent",
         "meaning": "an offender; criminal; behind time",
-        "done": false
+        "status": ""
       },
       {
         "word": "reject",
         "meaning": "refuse to take, use, believe, consider, grant, etc.",
-        "done": false
+        "status": ""
       },
       {
         "word": "deprive",
         "meaning": "take away from by force",
-        "done": false
+        "status": ""
       },
-      { "word": "spouse", "meaning": "husband or wife", "done": false },
+      { "word": "spouse", "meaning": "husband or wife", "status": "" },
       {
         "word": "vocation",
         "meaning": "occupation; business; profession; trade",
-        "done": false
+        "status": ""
       },
       {
         "word": "unstable",
         "meaning": "not firmly fixed; easily moved or overthrown",
-        "done": false
+        "status": ""
       },
       {
         "word": "homicide",
         "meaning": "a killing of one human being by another; murder",
-        "done": false
+        "status": ""
       },
       {
         "word": "penalize",
         "meaning": "declare punishable by law or rule; set a penalty for",
-        "done": false
+        "status": ""
       },
       {
         "word": "beneficiary",
         "meaning": "person who receives benefit",
-        "done": false
+        "status": ""
       }
     ],
     "finished": false
@@ -1217,46 +1217,46 @@
       {
         "word": "reptile",
         "meaning": "a cold blooded animal that creeps or crawls; snakes, lizards, turtles, alligators, and crocodiles",
-        "done": false
+        "status": ""
       },
-      { "word": "rarely", "meaning": "seldom; not often", "done": false },
+      { "word": "rarely", "meaning": "seldom; not often", "status": "" },
       {
         "word": "forbid",
         "meaning": "order someone not to do something; make a rule against",
-        "done": false
+        "status": ""
       },
       {
         "word": "logical",
         "meaning": "reasonable; reasonably expected",
-        "done": false
+        "status": ""
       },
-      { "word": "exhibit", "meaning": "display; show", "done": false },
+      { "word": "exhibit", "meaning": "display; show", "status": "" },
       {
         "word": "proceed",
         "meaning": "go on after having stopped; move forward",
-        "done": false
+        "status": ""
       },
       {
         "word": "precaution",
         "meaning": "measures taken beforehand; foresight",
-        "done": false
+        "status": ""
       },
       {
         "word": "extract",
         "meaning": "pull out or draw out, usually with some effort",
-        "done": false
+        "status": ""
       },
-      { "word": "prior", "meaning": "coming before; earlier", "done": false },
+      { "word": "prior", "meaning": "coming before; earlier", "status": "" },
       {
         "word": "embrace",
         "meaning": "hug one another; a hug",
-        "done": false
+        "status": ""
       },
-      { "word": "valiant", "meaning": "brave; courageous", "done": false },
+      { "word": "valiant", "meaning": "brave; courageous", "status": "" },
       {
         "word": "partial",
         "meaning": "not complete; not total",
-        "done": false
+        "status": ""
       }
     ],
     "finished": false
@@ -1264,61 +1264,61 @@
   {
     "lesson": 24,
     "words": [
-      { "word": "fierce", "meaning": "savage; wild", "done": false },
+      { "word": "fierce", "meaning": "savage; wild", "status": "" },
       {
         "word": "detest",
         "meaning": "dislike very much; hate",
-        "done": false
+        "status": ""
       },
       {
         "word": "sneer",
         "meaning": "show scorn or contempt by looks or words; a scornful look or remark",
-        "done": false
+        "status": ""
       },
       {
         "word": "scowl",
         "meaning": "look angry by lowering the eyebrows; frown",
-        "done": false
+        "status": ""
       },
       {
         "word": "encourage",
         "meaning": "give courage to; increase the confidence of",
-        "done": false
+        "status": ""
       },
       {
         "word": "consider",
         "meaning": "think about in order to decide",
-        "done": false
+        "status": ""
       },
       {
         "word": "vermin",
         "meaning": "small animals that are troublesome or destructive; fleas, bedbugs, lice, rats, and mice are vermin",
-        "done": false
+        "status": ""
       },
       {
         "word": "wail",
         "meaning": "cry loud and long because of grief or pain",
-        "done": false
+        "status": ""
       },
       {
         "word": "symbol",
         "meaning": "something that stands for or represents something else",
-        "done": false
+        "status": ""
       },
       {
         "word": "authority",
         "meaning": "the right to command or enforce obedience; power delegated to another; an author or volume that may be appealed to in support of an action or belief",
-        "done": false
+        "status": ""
       },
       {
         "word": "neutral",
         "meaning": "on neither side of a quarrel or war",
-        "done": false
+        "status": ""
       },
       {
         "word": "trifle",
         "meaning": "a small amount; little bit; something of little value",
-        "done": false
+        "status": ""
       }
     ],
     "finished": false
@@ -1329,54 +1329,54 @@
       {
         "word": "architect",
         "meaning": "a person who makes plans for buildings and other structures; a maker; a creator",
-        "done": false
+        "status": ""
       },
       {
         "word": "matrimony",
         "meaning": "married life; ceremony of marriage",
-        "done": false
+        "status": ""
       },
       {
         "word": "baggage",
         "meaning": "the trunks and suitcases a person takes when he or she travels; an army's equipment",
-        "done": false
+        "status": ""
       },
       {
         "word": "squander",
         "meaning": "spend foolishly; waste",
-        "done": false
+        "status": ""
       },
       {
         "word": "abroad",
         "meaning": "outside one's country; going around; far and wide",
-        "done": false
+        "status": ""
       },
-      { "word": "fugitive", "meaning": "a runaway", "done": false },
+      { "word": "fugitive", "meaning": "a runaway", "status": "" },
       {
         "word": "calamity",
         "meaning": "a great misfortune; serious trouble",
-        "done": false
+        "status": ""
       },
-      { "word": "pauper", "meaning": "a very poor person", "done": false },
+      { "word": "pauper", "meaning": "a very poor person", "status": "" },
       {
         "word": "envy",
         "meaning": "jealousy; the object of jealousy; to feel jealous",
-        "done": false
+        "status": ""
       },
       {
         "word": "collapse",
         "meaning": "a breakdown; to fall in; break down; fail suddenly; fold together",
-        "done": false
+        "status": ""
       },
       {
         "word": "prosecute",
         "meaning": "bring before a court; follow up; carry on",
-        "done": false
+        "status": ""
       },
       {
         "word": "bigamy",
         "meaning": "having two wives or two husbands at the same time",
-        "done": false
+        "status": ""
       }
     ],
     "finished": false
@@ -1387,54 +1387,54 @@
       {
         "word": "possible",
         "meaning": "able to be, be done, or happen; able to be true; able to be done or chosen properly",
-        "done": false
+        "status": ""
       },
-      { "word": "compel", "meaning": "force; get by force", "done": false },
+      { "word": "compel", "meaning": "force; get by force", "status": "" },
       {
         "word": "awkward",
         "meaning": "clumsy; not well-suited to use; not easily managed; embarrassing",
-        "done": false
+        "status": ""
       },
       {
         "word": "venture",
         "meaning": "a daring undertaking; an attempt to make money by making business risks; to dare; to expose to risk",
-        "done": false
+        "status": ""
       },
       {
         "word": "awesome",
         "meaning": "causing or showing great fear, wonder, or respect",
-        "done": false
+        "status": ""
       },
       {
         "word": "guide",
         "meaning": "a person who shows the way; to direct; to manage",
-        "done": false
+        "status": ""
       },
       {
         "word": "quench",
         "meaning": "put an end to; drawn or put out",
-        "done": false
+        "status": ""
       },
       {
         "word": "betray",
         "meaning": "give away to the enemy; be unfaithful; mislead; show",
-        "done": false
+        "status": ""
       },
       {
         "word": "utter",
         "meaning": "speak; make known; express",
-        "done": false
+        "status": ""
       },
       {
         "word": "pacify",
         "meaning": "make calm; quiet down; bring peace to",
-        "done": false
+        "status": ""
       },
-      { "word": "respond", "meaning": "answer; react", "done": false },
+      { "word": "respond", "meaning": "answer; react", "status": "" },
       {
         "word": "beckon",
         "meaning": "signal by a motion of the hand or head; attract",
-        "done": false
+        "status": ""
       }
     ],
     "finished": false
@@ -1442,42 +1442,42 @@
   {
     "lesson": 27,
     "words": [
-      { "word": "despite", "meaning": "in spite of", "done": false },
+      { "word": "despite", "meaning": "in spite of", "status": "" },
       {
         "word": "disrupt",
         "meaning": "upset; cause to break down",
-        "done": false
+        "status": ""
       },
       {
         "word": "rash",
         "meaning": "a breaking out with many small red spots on the skin; outbreak of many instances within a short time too hasty or careless",
-        "done": false
+        "status": ""
       },
-      { "word": "rapid", "meaning": "very quick; swift", "done": false },
+      { "word": "rapid", "meaning": "very quick; swift", "status": "" },
       {
         "word": "exhaust",
         "meaning": "empty completely; use up; tire out",
-        "done": false
+        "status": ""
       },
       {
         "word": "severity",
         "meaning": "strictness; harshness; plainness; violence",
-        "done": false
+        "status": ""
       },
-      { "word": "feeble", "meaning": "weak", "done": false },
+      { "word": "feeble", "meaning": "weak", "status": "" },
       {
         "word": "unite",
         "meaning": "join together; become one",
-        "done": false
+        "status": ""
       },
-      { "word": "cease", "meaning": "stop", "done": false },
+      { "word": "cease", "meaning": "stop", "status": "" },
       {
         "word": "thrifty",
         "meaning": "saving; careful in spending; thriving",
-        "done": false
+        "status": ""
       },
-      { "word": "miserly", "meaning": "stingy; like a miser", "done": false },
-      { "word": "monarch", "meaning": "king or queen; ruler", "done": false }
+      { "word": "miserly", "meaning": "stingy; like a miser", "status": "" },
+      { "word": "monarch", "meaning": "king or queen; ruler", "status": "" }
     ],
     "finished": false
   },
@@ -1487,58 +1487,58 @@
       {
         "word": "outlaw",
         "meaning": "an exile; an outcast; a criminal; to declare unlawful",
-        "done": false
+        "status": ""
       },
       {
         "word": "promote",
         "meaning": "raise in rank or importance; help to grow and develop; help to organize",
-        "done": false
+        "status": ""
       },
       {
         "word": "undernourished",
         "meaning": "not sufficiently fed",
-        "done": false
+        "status": ""
       },
       {
         "word": "illustrate",
         "meaning": "make clear or explain by stories, examples, comparisons, or other means; serve as an example",
-        "done": false
+        "status": ""
       },
-      { "word": "disclose", "meaning": "uncover; make known", "done": false },
+      { "word": "disclose", "meaning": "uncover; make known", "status": "" },
       {
         "word": "excessive",
         "meaning": "too much; too great; extreme",
-        "done": false
+        "status": ""
       },
       {
         "word": "disaster",
         "meaning": "an event that causes much suffering or loss; a great misfortune",
-        "done": false
+        "status": ""
       },
       {
         "word": "censor",
         "meaning": "person who tells others how they ought to behave; one who changes books, plays and other works so as to make them acceptable to the government; to make changes in",
-        "done": false
+        "status": ""
       },
       {
         "word": "culprit",
         "meaning": "offender; person guilty of a fault or crime",
-        "done": false
+        "status": ""
       },
       {
         "word": "juvenile",
         "meaning": "young; youthful; of or for boys and girls; a young person",
-        "done": false
+        "status": ""
       },
       {
         "word": "bait",
         "meaning": "anything, specially food, used to attract fish or other animals so that they may be caught; anything used to tempt or attract a person to begin something he or she does not wish to do; to put bait on (a hook) or in (a trap); torment by unkind or annoying remarks",
-        "done": false
+        "status": ""
       },
       {
         "word": "insist",
         "meaning": "keep firmly to some demand, statement, or position",
-        "done": false
+        "status": ""
       }
     ],
     "finished": false
@@ -1549,50 +1549,50 @@
       {
         "word": "toil",
         "meaning": "hard work; to work hard; move with difficulty",
-        "done": false
+        "status": ""
       },
       {
         "word": "blunder",
         "meaning": "stupid mistake; to make a stupid mistake; stumble; say clumsily",
-        "done": false
+        "status": ""
       },
-      { "word": "daze", "meaning": "confuse", "done": false },
+      { "word": "daze", "meaning": "confuse", "status": "" },
       {
         "word": "mourn",
         "meaning": "grieve; feel or show sorrow for",
-        "done": false
+        "status": ""
       },
       {
         "word": "subside",
         "meaning": "sink to a lower level; grow less",
-        "done": false
+        "status": ""
       },
       {
         "word": "maim",
         "meaning": "cripple; disable; cause to lose an arm, leg, or other part of the body",
-        "done": false
+        "status": ""
       },
-      { "word": "comprehend", "meaning": "understand", "done": false },
+      { "word": "comprehend", "meaning": "understand", "status": "" },
       {
         "word": "commend",
         "meaning": "praise; hand over for safekeeping",
-        "done": false
+        "status": ""
       },
-      { "word": "final", "meaning": "coming last; deciding", "done": false },
+      { "word": "final", "meaning": "coming last; deciding", "status": "" },
       {
         "word": "exempt",
         "meaning": "make free from; freed from",
-        "done": false
+        "status": ""
       },
       {
         "word": "vain",
         "meaning": "having too much pride in one's ability, looks, etc.; of no use",
-        "done": false
+        "status": ""
       },
       {
         "word": "repetition",
         "meaning": "act of doing or saying again",
-        "done": false
+        "status": ""
       }
     ],
     "finished": false
@@ -1603,62 +1603,62 @@
       {
         "word": "depict",
         "meaning": "represent by drawing or painting; describe",
-        "done": false
+        "status": ""
       },
       {
         "word": "mortal",
         "meaning": "sure to die sometime; pertaining to man; deadly; pertaining to or causing death",
-        "done": false
+        "status": ""
       },
       {
         "word": "novel",
         "meaning": "new; strange; a long story with characters and plot",
-        "done": false
+        "status": ""
       },
       {
         "word": "occupant",
         "meaning": "person in possession of a house, office, or position",
-        "done": false
+        "status": ""
       },
       {
         "word": "appoint",
         "meaning": "decide on; set a time or place; choose for a position; equip or furnish",
-        "done": false
+        "status": ""
       },
       {
         "word": "quarter",
         "meaning": "region; section; (quarters) a place to live; to provide a place to live",
-        "done": false
+        "status": ""
       },
       {
         "word": "site",
         "meaning": "position or place (of anything)",
-        "done": false
+        "status": ""
       },
       {
         "word": "quote",
         "meaning": "repeat exactly the words of another or a passage from a book; that is, something that is repeated exactly; give the price of; a quotation",
-        "done": false
+        "status": ""
       },
       {
         "word": "verse",
         "meaning": "a short division of a chapter in the Bible; a single line or a group of lines of poetry",
-        "done": false
+        "status": ""
       },
       {
         "word": "morality",
         "meaning": "the right or wrong of an action; virtue; a set of rules or principles of conduct",
-        "done": false
+        "status": ""
       },
       {
         "word": "roam",
         "meaning": "wander; go about with no special plan or aim",
-        "done": false
+        "status": ""
       },
       {
         "word": "attract",
         "meaning": "draw to oneself; win the attention and liking of",
-        "done": false
+        "status": ""
       }
     ],
     "finished": false
@@ -1669,54 +1669,54 @@
       {
         "word": "commuter",
         "meaning": "one who travels regularly, especially over a considerable distance between home and work",
-        "done": false
+        "status": ""
       },
-      { "word": "confine", "meaning": "keep in; hold in", "done": false },
+      { "word": "confine", "meaning": "keep in; hold in", "status": "" },
       {
         "word": "idle",
         "meaning": "not doing anything; not busy; lazy; without any good reason or cause; to waste (time)",
-        "done": false
+        "status": ""
       },
       {
         "word": "idol",
         "meaning": "a thing, usually an image, that is worshiped; a person or thing that is loved very much",
-        "done": false
+        "status": ""
       },
       {
         "word": "jest",
         "meaning": "joke; fun; mockery; thing to be laughed at; to jock; poke fun",
-        "done": false
+        "status": ""
       },
       {
         "word": "patriotic",
         "meaning": "loving one's country; showing love and loyal support for one's country",
-        "done": false
+        "status": ""
       },
       {
         "word": "dispute",
         "meaning": "disagree; oppose; try to win; a debate or disagreement",
-        "done": false
+        "status": ""
       },
-      { "word": "valor", "meaning": "bravery; courage", "done": false },
+      { "word": "valor", "meaning": "bravery; courage", "status": "" },
       {
         "word": "lunatic",
         "meaning": "crazy person; insane; extremely foolish",
-        "done": false
+        "status": ""
       },
       {
         "word": "vein",
         "meaning": "mood; a blood vessel that carries blood to the heart; a crack or seam in a rock filled with a different mineral",
-        "done": false
+        "status": ""
       },
       {
         "word": "uneventful",
         "meaning": "without important or striking happenings",
-        "done": false
+        "status": ""
       },
       {
         "word": "fertile",
         "meaning": "bearing seeds or fruit; producing much of anything",
-        "done": false
+        "status": ""
       }
     ],
     "finished": false
@@ -1727,58 +1727,58 @@
       {
         "word": "refer",
         "meaning": "hand over; send, direct, or turn for information, help, or action; (refer to) direct attention to or speak about; assign to or think of as caused by",
-        "done": false
+        "status": ""
       },
       {
         "word": "distress",
         "meaning": "great pain or sorrow; misfortune; dangerous or difficult situation; to cause pain or make unhappy",
-        "done": false
+        "status": ""
       },
       {
         "word": "diminish",
         "meaning": "make or become smaller in size, amount or importance",
-        "done": false
+        "status": ""
       },
       {
         "word": "maximum",
         "meaning": "greatest amount; greatest possible",
-        "done": false
+        "status": ""
       },
-      { "word": "flee", "meaning": "run away; go quickly", "done": false },
+      { "word": "flee", "meaning": "run away; go quickly", "status": "" },
       {
         "word": "vulnerable",
         "meaning": "capable of being injured; open to attack; sensitive to criticism, influences, etc.",
-        "done": false
+        "status": ""
       },
       {
         "word": "signify",
         "meaning": "mean; be a sign of; make known by signs, words, or actions; have importance",
-        "done": false
+        "status": ""
       },
       {
         "word": "mythology",
         "meaning": "legends or stories that ususally attempt to explain something in nature",
-        "done": false
+        "status": ""
       },
       {
         "word": "provide",
         "meaning": "associate; fellow worker",
-        "done": false
+        "status": ""
       },
       {
         "word": "colleague",
         "meaning": "cause very great pain to; worry or annoy very much; cause of very great pain; very great pain",
-        "done": false
+        "status": ""
       },
       {
         "word": "torment",
         "meaning": "to supply; to state as a condition; to prepare for or against some situation",
-        "done": false
+        "status": ""
       },
       {
         "word": "loyalty",
         "meaning": "faithfulness to a person, government, idea, custome, or the like",
-        "done": false
+        "status": ""
       }
     ],
     "finished": false
@@ -1789,46 +1789,46 @@
       {
         "word": "volunteer",
         "meaning": "person who enters any service of his or her own free will; to offer one's services",
-        "done": false
+        "status": ""
       },
       {
         "word": "prejudice",
         "meaning": "an opinion formed without taking time and care to judge fairly; to harm or injure",
-        "done": false
+        "status": ""
       },
       {
         "word": "shrill",
         "meaning": "having a high pitch; high and sharp in sound; piercing",
-        "done": false
+        "status": ""
       },
-      { "word": "jolly", "meaning": "merry; full of fun", "done": false },
-      { "word": "witty", "meaning": "cleverly amusing", "done": false },
+      { "word": "jolly", "meaning": "merry; full of fun", "status": "" },
+      { "word": "witty", "meaning": "cleverly amusing", "status": "" },
       {
         "word": "hinder",
         "meaning": "hold back; make hard to do",
-        "done": false
+        "status": ""
       },
       {
         "word": "lecture",
         "meaning": "speech or planned talk; a scolding; to scold",
-        "done": false
+        "status": ""
       },
       {
         "word": "abuse",
         "meaning": "make bad use of; use wrongly; treat badly; scold very severely; bad or wrong use; bad treatment",
-        "done": false
+        "status": ""
       },
-      { "word": "mumble", "meaning": "speak indistinctly", "done": false },
-      { "word": "mute", "meaning": "silent; unable to speak", "done": false },
+      { "word": "mumble", "meaning": "speak indistinctly", "status": "" },
+      { "word": "mute", "meaning": "silent; unable to speak", "status": "" },
       {
         "word": "wad",
         "meaning": "small, soft mass; to roll or crush into a small mass",
-        "done": false
+        "status": ""
       },
       {
         "word": "retain",
         "meaning": "keep; remember; employ by payment of a fee",
-        "done": false
+        "status": ""
       }
     ],
     "finished": false
@@ -1839,62 +1839,62 @@
       {
         "word": "candidate",
         "meaning": "person who is proposed for some office or honor",
-        "done": false
+        "status": ""
       },
       {
         "word": "precede",
         "meaning": "go before; come before; be higher in rank or importance",
-        "done": false
+        "status": ""
       },
       {
         "word": "adolescent",
         "meaning": "growing up to manhood or womanhood; youthful; a person from about 13 to 22 years of age",
-        "done": false
+        "status": ""
       },
       {
         "word": "coeducational",
         "meaning": "having to do with educating both sexes in the same school",
-        "done": false
+        "status": ""
       },
       {
         "word": "radical",
         "meaning": "going to the root; fundamental; extreme; person with extreme opinions",
-        "done": false
+        "status": ""
       },
       {
         "word": "spontaneous",
         "meaning": "of one's own free will; natural; on the spur of the moment; without rehearsal",
-        "done": false
+        "status": ""
       },
       {
         "word": "skim",
         "meaning": "remove from the top; move lightly (over); glide along; read hastily or carelessly",
-        "done": false
+        "status": ""
       },
       {
         "word": "vaccinate",
         "meaning": "inoculate with vaccine as a protection against smallpox and other diseases",
-        "done": false
+        "status": ""
       },
       {
         "word": "untidy",
         "meaning": "not neat; not in order",
-        "done": false
+        "status": ""
       },
       {
         "word": "utensil",
         "meaning": "container or tool used for practical purposes",
-        "done": false
+        "status": ""
       },
       {
         "word": "sensitive",
         "meaning": "receiving impressions readily; easily affected or influenced; easily hurt or offended",
-        "done": false
+        "status": ""
       },
       {
         "word": "temperate",
         "meaning": "not very hot and not very cold; moderate",
-        "done": false
+        "status": ""
       }
     ],
     "finished": false
@@ -1905,46 +1905,46 @@
       {
         "word": "vague",
         "meaning": "not definite; not clear; not distinct",
-        "done": false
+        "status": ""
       },
-      { "word": "elevate", "meaning": "raise; lift up", "done": false },
+      { "word": "elevate", "meaning": "raise; lift up", "status": "" },
       {
         "word": "lottery",
         "meaning": "a scheme for distributing prizes by lot or chance",
-        "done": false
+        "status": ""
       },
       {
         "word": "finance",
         "meaning": "money matters; to provide money for",
-        "done": false
+        "status": ""
       },
-      { "word": "obtain", "meaning": "get; be in use", "done": false },
-      { "word": "cinema", "meaning": "moving picture", "done": false },
+      { "word": "obtain", "meaning": "get; be in use", "status": "" },
+      { "word": "cinema", "meaning": "moving picture", "status": "" },
       {
         "word": "event",
         "meaning": "happening; important happening; result or outcome; one item in a program of sports",
-        "done": false
+        "status": ""
       },
-      { "word": "discard", "meaning": "throw aside", "done": false },
+      { "word": "discard", "meaning": "throw aside", "status": "" },
       {
         "word": "soar",
         "meaning": "fly upward or at a great height; aspire",
-        "done": false
+        "status": ""
       },
       {
         "word": "subsequent",
         "meaning": "later; following; coming after",
-        "done": false
+        "status": ""
       },
       {
         "word": "relate",
         "meaning": "tell; give an account of; connect in thought or meaning",
-        "done": false
+        "status": ""
       },
       {
         "word": "stationary",
         "meaning": "having a fixed station or lpace; standing still; not moving; not changing in size, number or activity",
-        "done": false
+        "status": ""
       }
     ],
     "finished": false
@@ -1955,54 +1955,54 @@
       {
         "word": "prompt",
         "meaning": "quick; on time; done at once; to cause (someone) to do something; remind (someone) of the words or actions needed",
-        "done": false
+        "status": ""
       },
       {
         "word": "hasty",
         "meaning": "quick; hurried; not well thought out",
-        "done": false
+        "status": ""
       },
       {
         "word": "scorch",
         "meaning": "burn slightly; dry up; criticize sharply",
-        "done": false
+        "status": ""
       },
       {
         "word": "tempest",
         "meaning": "violent storm with much wind; a violent disturbance",
-        "done": false
+        "status": ""
       },
-      { "word": "soothe", "meaning": "quiet; calm; comfort", "done": false },
+      { "word": "soothe", "meaning": "quiet; calm; comfort", "status": "" },
       {
         "word": "sympathetic",
         "meaning": "having or showing kind feelings toward others; approving; enjoying the same things and getting along well together",
-        "done": false
+        "status": ""
       },
       {
         "word": "redeem",
         "meaning": "buy back; pay off; carry out; set free; make up for",
-        "done": false
+        "status": ""
       },
       {
         "word": "resume",
         "meaning": "begin again; go on; take again",
-        "done": false
+        "status": ""
       },
       {
         "word": "harmony",
         "meaning": "situation of getting on well together or going well together; sweet or musical sound",
-        "done": false
+        "status": ""
       },
-      { "word": "refrain", "meaning": "hold back", "done": false },
+      { "word": "refrain", "meaning": "hold back", "status": "" },
       {
         "word": "illegal",
         "meaning": "not lawful; against the law",
-        "done": false
+        "status": ""
       },
       {
         "word": "narcotic",
         "meaning": "drug that produces drowsiness, sleep, dullness, or an insensible condition, and lessens pain by dulling the nerves",
-        "done": false
+        "status": ""
       }
     ],
     "finished": false
@@ -2013,58 +2013,58 @@
       {
         "word": "heir",
         "meaning": "person who has a right to someone's property after that one dies; person who inherits anything",
-        "done": false
+        "status": ""
       },
       {
         "word": "majestic",
         "meaning": "grand; noble; dignified; kingly",
-        "done": false
+        "status": ""
       },
       {
         "word": "dwindle",
         "meaning": "become smaller and smaller; shrink",
-        "done": false
+        "status": ""
       },
       {
         "word": "surplus",
         "meaning": "amount over and above what is needed; excess, extra",
-        "done": false
+        "status": ""
       },
       {
         "word": "traitor",
         "meaning": "person who betrays his or her country, a friend, duty, etc.",
-        "done": false
+        "status": ""
       },
       {
         "word": "deliberate",
         "meaning": "to consider carefully; intended; done on purpose; slow and careful, as though allowing time to decide what to do",
-        "done": false
+        "status": ""
       },
       {
         "word": "vandal",
         "meaning": "person who wilfully or ignorantly destroys or damages beautiful things",
-        "done": false
+        "status": ""
       },
       {
         "word": "drought",
         "meaning": "long period of dry weather; lack of rain; lack of water; dryness",
-        "done": false
+        "status": ""
       },
       {
         "word": "abide",
         "meaning": "accept and follow out; remain faithful to; dwell; endure",
-        "done": false
+        "status": ""
       },
       {
         "word": "unify",
         "meaning": "unite; make or form into one",
-        "done": false
+        "status": ""
       },
-      { "word": "summit", "meaning": "highest point; top", "done": false },
+      { "word": "summit", "meaning": "highest point; top", "status": "" },
       {
         "word": "heed",
         "meaning": "give careful attention to; take notice of; careful attention",
-        "done": false
+        "status": ""
       }
     ],
     "finished": false
@@ -2075,54 +2075,54 @@
       {
         "word": "biography",
         "meaning": "the written story of a person's life; the part of literature that consists of biographies",
-        "done": false
+        "status": ""
       },
-      { "word": "drench", "meaning": "wet thoroughly; soak", "done": false },
+      { "word": "drench", "meaning": "wet thoroughly; soak", "status": "" },
       {
         "word": "swarm",
         "meaning": "group of insects flying or moving about together; crowd or great number; to fly or move about in great numbers",
-        "done": false
+        "status": ""
       },
       {
         "word": "wobble",
         "meaning": "move unsteadily from side to side",
-        "done": false
+        "status": ""
       },
       {
         "word": "tumult",
         "meaning": "noise; uproar; violent disturbance or disorder",
-        "done": false
+        "status": ""
       },
       {
         "word": "kneel",
         "meaning": "go down on one's knees; remain on the knees",
-        "done": false
+        "status": ""
       },
-      { "word": "dejected", "meaning": "in low spirits; sad", "done": false },
+      { "word": "dejected", "meaning": "in low spirits; sad", "status": "" },
       {
         "word": "obedient",
         "meaning": "doing what one is told; willing to obey",
-        "done": false
+        "status": ""
       },
       {
         "word": "recede",
         "meaning": "go back; move back; slope backward; withdraw",
-        "done": false
+        "status": ""
       },
       {
         "word": "tyrant",
         "meaning": "cruel or unjust ruler; cruel master; absolute ruler",
-        "done": false
+        "status": ""
       },
       {
         "word": "charity",
         "meaning": "generous giving to the poor; institutions for helping the sick, the poor, or the helpless; kindness in judging people's faults",
-        "done": false
+        "status": ""
       },
       {
         "word": "verdict",
         "meaning": "decision of a jury; judgment",
-        "done": false
+        "status": ""
       }
     ],
     "finished": false
@@ -2133,58 +2133,58 @@
       {
         "word": "unearth",
         "meaning": "dig up; discover; find out",
-        "done": false
+        "status": ""
       },
       {
         "word": "depart",
         "meaning": "go away; leave; turn away (from); change; die",
-        "done": false
+        "status": ""
       },
       {
         "word": "coincide",
         "meaning": "occupy the same place in space; occupy the same time; correspond exactly; agree",
-        "done": false
+        "status": ""
       },
       {
         "word": "cancel",
         "meaning": "cross out; mark so that it cannot be used; wipe out; call off",
-        "done": false
+        "status": ""
       },
       {
         "word": "debtor",
         "meaning": "person who owes something to another",
-        "done": false
+        "status": ""
       },
       {
         "word": "legible",
         "meaning": "able to be read; easy to read; plain and clear",
-        "done": false
+        "status": ""
       },
       {
         "word": "placard",
         "meaning": "a notice to be posted in a public place; poster",
-        "done": false
+        "status": ""
       },
       {
         "word": "contagious",
         "meaning": "spreading by contact, easily spreading from one to another",
-        "done": false
+        "status": ""
       },
       {
         "word": "clergy",
         "meaning": "persons prepared for religious work; clergymen as a group",
-        "done": false
+        "status": ""
       },
-      { "word": "customary", "meaning": "usual", "done": false },
+      { "word": "customary", "meaning": "usual", "status": "" },
       {
         "word": "transparent",
         "meaning": "easily seen through; clear",
-        "done": false
+        "status": ""
       },
       {
         "word": "scald",
         "meaning": "pour boiling liquid over; burn with hot liquid or steam; heat almost to the boiling point",
-        "done": false
+        "status": ""
       }
     ],
     "finished": false
@@ -2195,54 +2195,54 @@
       {
         "word": "epidemic",
         "meaning": "an outbreak of a disease that spreads rapidly, so that many people have it at the same time; widespread",
-        "done": false
+        "status": ""
       },
-      { "word": "obesity", "meaning": "extreme fatness", "done": false },
+      { "word": "obesity", "meaning": "extreme fatness", "status": "" },
       {
         "word": "magnify",
         "meaning": "cause to look larger than it really is; make too much of; go beyond the truth in telling",
-        "done": false
+        "status": ""
       },
       {
         "word": "chiropractor",
         "meaning": "a person who treats ailments by massage and manipulation of the vertebrae and other forms of therapy on the theory that disease results from interference with the normal functioning of the nervous system",
-        "done": false
+        "status": ""
       },
       {
         "word": "obstacle",
         "meaning": "anything that gets in the way or hinders; impediment; obstruction",
-        "done": false
+        "status": ""
       },
       {
         "word": "ventilate",
         "meaning": "change the air in; purify by fresh air; discuss openly",
-        "done": false
+        "status": ""
       },
-      { "word": "jeopardize", "meaning": "risk; endanger", "done": false },
+      { "word": "jeopardize", "meaning": "risk; endanger", "status": "" },
       {
         "word": "negative",
         "meaning": "saying no; minus; showing the lights and shadows reversed",
-        "done": false
+        "status": ""
       },
       {
         "word": "pension",
         "meaning": "regular payment that is not wages; to make such a payment",
-        "done": false
+        "status": ""
       },
       {
         "word": "vital",
         "meaning": "having to do with life; necessary to life; causing death; failure or ruin; lively",
-        "done": false
+        "status": ""
       },
       {
         "word": "municipal",
         "meaning": "of a city or state; having something to do in the affairs of a city or town",
-        "done": false
+        "status": ""
       },
       {
         "word": "oral",
         "meaning": "spoken; using speech; of the mouth",
-        "done": false
+        "status": ""
       }
     ],
     "finished": false
@@ -2253,62 +2253,62 @@
       {
         "word": "complacent",
         "meaning": "pleased with oneself; self-satisfied",
-        "done": false
+        "status": ""
       },
       {
         "word": "wasp",
         "meaning": "an insect with a slender body and powerful sting",
-        "done": false
+        "status": ""
       },
       {
         "word": "rehabilitate",
         "meaning": "restore to good condition; make over in a new form; restore to former standing, rank, reputation, etc.",
-        "done": false
+        "status": ""
       },
       {
         "word": "parole",
         "meaning": "word of honor; conditional freedom; to free (a prisoner) under certain conditions",
-        "done": false
+        "status": ""
       },
       {
         "word": "vertical",
         "meaning": "straight up and down with reference to the horizon, for example, a vertical line",
-        "done": false
+        "status": ""
       },
       {
         "word": "multitude",
         "meaning": "a great number; a crowd",
-        "done": false
+        "status": ""
       },
       {
         "word": "nominate",
         "meaning": "name as a candidate for office; appoint to an office",
-        "done": false
+        "status": ""
       },
       {
         "word": "potential",
         "meaning": "possibility as opposed to actuality; capability of coming into being or action; possible as opposed to actual; capable of coming into being or action",
-        "done": false
+        "status": ""
       },
       {
         "word": "morgue",
         "meaning": "place where bodies of unknown persons found dead are kept; the reference library of a newspaper office",
-        "done": false
+        "status": ""
       },
       {
         "word": "preoccupied",
         "meaning": "took up all the attention",
-        "done": false
+        "status": ""
       },
       {
         "word": "upholstery",
         "meaning": "coverings and cushions for furniture",
-        "done": false
+        "status": ""
       },
       {
         "word": "indifference",
         "meaning": "lack of interest, care, or attention",
-        "done": false
+        "status": ""
       }
     ],
     "finished": false
@@ -2319,54 +2319,54 @@
       {
         "word": "maintain",
         "meaning": "keep; keep on; carry on; uphold; support; declare to be true",
-        "done": false
+        "status": ""
       },
       {
         "word": "snub",
         "meaning": "treat coldly, scornfully, or with contempt; cold treatment",
-        "done": false
+        "status": ""
       },
       {
         "word": "endure",
         "meaning": "last; keep on; undergo; bear; stand",
-        "done": false
+        "status": ""
       },
-      { "word": "wrath", "meaning": "very great anger; rage", "done": false },
+      { "word": "wrath", "meaning": "very great anger; rage", "status": "" },
       {
         "word": "expose",
         "meaning": "lay open; uncover; leave unprotected; show openly",
-        "done": false
+        "status": ""
       },
       {
         "word": "legend",
         "meaning": "story coming from the past, which many people have believed; what is written on a coin or below a picture",
-        "done": false
+        "status": ""
       },
-      { "word": "ponder", "meaning": "consider carefully", "done": false },
+      { "word": "ponder", "meaning": "consider carefully", "status": "" },
       {
         "word": "resign",
         "meaning": "give up; yield; submit",
-        "done": false
+        "status": ""
       },
       {
         "word": "drastic",
         "meaning": "acting with force or violence",
-        "done": false
+        "status": ""
       },
       {
         "word": "wharf",
         "meaning": "platform built on the shore or out from the shore beside which ships can load or unload",
-        "done": false
+        "status": ""
       },
       {
         "word": "amend",
         "meaning": "change for the better; correct; change",
-        "done": false
+        "status": ""
       },
       {
         "word": "ballot",
         "meaning": "piece of paper used in voting; the whole number of votes cast; the method of secret voting; to vote or decide by using ballots",
-        "done": false
+        "status": ""
       }
     ],
     "finished": false

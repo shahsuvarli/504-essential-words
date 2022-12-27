@@ -11,7 +11,7 @@
 .word-card {
   width: 250px;
   padding: 10px;
-  display: grid;
+  /* display: grid; */
   background-color: rgb(252, 252, 252);
   /* animation: card 2s ease-in-out 1 !important; */
   z-index: 5;
@@ -58,4 +58,9 @@
 .play-button:hover,
 .see-more-button:hover {
   cursor: pointer;
+}
+
+
+.hide{
+  display: none;
 }

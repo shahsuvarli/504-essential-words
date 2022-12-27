@@ -1,11 +1,21 @@
 import { Button, Collapse } from "@mui/material";
-import React, { useContext, useState } from "react";
+import React, { useContext, useEffect, useState } from "react";
 import { WordsContext } from "./ContextProvider";
 import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
 
 function Repeat() {
-  const { repeat, setRepeat } = useContext(WordsContext);
+  const { repeat, setRepeat, words, setWords } = useContext(WordsContext);
   const [expand, setExpand] = useState(false);
+
+  useEffect(() => {
+    let newArr = [];
+    words.map((lesson) =>
+      lesson.words
+        .filter((word) => word.status === "repeat")
+        .map((word) => newArr.push(word.word))
+    );
+    setRepeat([...newArr]);
+  }, [words, setRepeat]);
 
   const handleCollapse = () => {
     setExpand(!expand);
@@ -16,10 +26,16 @@ function Repeat() {
       `Do you know the meaning of ${e.target.innerText}`
     );
     if (result) {
-      let newRepeat = repeat.filter(
-        (item) => item !== e.target.innerText.toLowerCase()
-      );
-      setRepeat(newRepeat);
+      let newArr = [];
+      let newWord = words.map((lesson) =>
+        lesson.words.find(
+          (word) => word.word === e.target.innerText.toLowerCase()
+        )
+      )[0];
+      console.log(newWord);
+      newWord.status = "";
+      setWords([...words]);
+      setRepeat([...words]);
     }
   };
 
@@ -29,22 +45,26 @@ function Repeat() {
         variant="contained"
         className="repeat-button"
         onClick={handleCollapse}
-        endIcon={<ExpandMoreIcon/>}
+        endIcon={<ExpandMoreIcon />}
         sx={{ height: 40, fontSize: 17 }}
       >
         Repeat ({repeat.length})
       </Button>
       <Collapse in={expand} className="repeat-collapse-container">
-        {repeat.map((item, index) => (
-          <Button
-            key={index}
-            className="repeat-text"
-            variant="outlined"
-            onClick={(e) => handleRepeat(e)}
-          >
-            {item}
-          </Button>
-        ))}
+        {words.map((word) =>
+          word.words
+            .filter((word) => word.status === "repeat")
+            .map((item, index) => (
+              <Button
+                key={index}
+                className="repeat-text"
+                variant="outlined"
+                onClick={handleRepeat}
+              >
+                {item.word}
+              </Button>
+            ))
+        )}
       </Collapse>
     </div>
   );
