@@ -3,7 +3,7 @@ import { WordsContext } from "./ContextProvider";
 import WordCard from "./WordCard";
 import Pagination from "./Pagination";
 import Arrows from "./Arrows";
-import { Typography } from "@mui/material";
+import { Button, Typography } from "@mui/material";
 import Repeat from "./Repeat";
 import Reset from "./Reset";
 import AutoStoriesIcon from "@mui/icons-material/AutoStories";
@@ -30,6 +30,9 @@ function Main() {
           ))}
       </div>
       <Arrows />
+      <Button className="copyright" target='_blank' href="https://shahsuvarli.com">
+        www.shahsuvarli.com
+      </Button>
     </div>
   );
 }
