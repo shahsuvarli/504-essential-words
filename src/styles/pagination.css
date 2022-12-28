@@ -13,10 +13,10 @@
   font-size: 17px !important;
 }
 
-.page-number:hover{
-background-color: dodgerblue !important;
-color: #fff !important;
-border: none !important;
+.page-number:hover {
+  background-color: dodgerblue !important;
+  color: #fff !important;
+  border: none !important;
 }
 
 .pagination-collapse {
