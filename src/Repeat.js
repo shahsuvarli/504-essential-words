@@ -23,7 +23,7 @@ function Repeat() {
 
   const handleRepeat = (e, wordIndex) => {
     let result = window.confirm(
-      `Do you know the meaning of ${e.target.innerText}`
+      `Do you know the meaning of ${e.target.innerText}?`
     );
     if (result) {
       let word = words.map((lesson, index) =>

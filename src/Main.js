@@ -8,9 +8,7 @@ import Repeat from "./Repeat";
 import Reset from "./Reset";
 
 function Main() {
-  const { words, page} = useContext(WordsContext);
-
-  
+  const { words, page } = useContext(WordsContext);
 
   return (
     <div className="container">
@@ -19,13 +17,13 @@ function Main() {
       </Typography>
       <Pagination />
       <Repeat />
-      <Reset/>
+      <Reset />
       <div className="cards-container">
         {words[page - 1].words
           .filter((word) => word.status === "")
-          .map((word) => {
-            return <WordCard word={word} key={word.word} />;
-          })}
+          .map((word) => (
+            <WordCard word={word} key={word.word} />
+          ))}
       </div>
       <Arrows />
     </div>

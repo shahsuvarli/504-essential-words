@@ -1,4 +1,5 @@
-.reset-container{
-    width: 90%;
-    margin-top: 10px;
+.reset-container {
+  width: 90%;
+  max-width: 500px;
+  margin-top: 10px;
 }
