@@ -57,11 +57,7 @@ function WordCard({ word }) {
   };
 
   return (
-    <Card
-      key={word.word}
-      className={`word-card ${word.show}`}
-      variant="outlined"
-    >
+    <Card key={word.word} className={"word-card"} variant="outlined">
       <ToastContainer style={{ zIndex: 20 }} />
       <div className="card-header">
         <p className="word">{word.word}</p>

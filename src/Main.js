@@ -30,7 +30,11 @@ function Main() {
           ))}
       </div>
       <Arrows />
-      <Button className="copyright" target='_blank' href="https://shahsuvarli.com">
+      <Button
+        className="copyright"
+        target="_blank"
+        href="https://shahsuvarli.com"
+      >
         shahsuvarli.com
       </Button>
     </div>

@@ -2,6 +2,7 @@ import { Button, Collapse } from "@mui/material";
 import React, { useContext, useEffect, useState } from "react";
 import { WordsContext } from "./ContextProvider";
 import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
+import empty from "../src/assets/images/empty.jpg";
 
 function Repeat() {
   const { repeat, setRepeat, words, setWords } = useContext(WordsContext);
@@ -33,6 +34,7 @@ function Repeat() {
       )[wordIndex];
       word.status = "";
       setWords([...words]);
+      localStorage.setItem("words", JSON.stringify(words));
     }
   };
 
@@ -48,20 +50,23 @@ function Repeat() {
         Repeat ({repeat.length})
       </Button>
       <Collapse in={expand} className="repeat-collapse-container">
-        {words.map((word, wordIndex) =>
-          word.words
-            .filter((word) => word.status === "repeat")
-            .map((item, itemIndex) => (
-              <Button
-                key={itemIndex}
-                className="repeat-text"
-                variant="outlined"
-                onClick={(e) => handleRepeat(e, wordIndex)}
-                // style={{ color: `rgb(${index},${index},${index})` }}
-              >
-                {item.word}
-              </Button>
-            ))
+        {repeat.length ? (
+          words.map((word, wordIndex) =>
+            word.words
+              .filter((word) => word.status === "repeat")
+              .map((item, itemIndex) => (
+                <Button
+                  key={itemIndex}
+                  className="repeat-text"
+                  variant="outlined"
+                  onClick={(e) => handleRepeat(e, wordIndex)}
+                >
+                  {item.word}
+                </Button>
+              ))
+          )
+        ) : (
+          <img width="100%" src={empty} alt="empty" />
         )}
       </Collapse>
     </div>
