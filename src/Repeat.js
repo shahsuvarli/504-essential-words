@@ -21,21 +21,18 @@ function Repeat() {
     setExpand(!expand);
   };
 
-  const handleRepeat = (e) => {
+  const handleRepeat = (e, wordIndex) => {
     let result = window.confirm(
       `Do you know the meaning of ${e.target.innerText}`
     );
     if (result) {
-      let newArr = [];
-      let newWord = words.map((lesson) =>
+      let word = words.map((lesson, index) =>
         lesson.words.find(
           (word) => word.word === e.target.innerText.toLowerCase()
         )
-      )[0];
-      console.log(newWord);
-      newWord.status = "";
+      )[wordIndex];
+      word.status = "";
       setWords([...words]);
-      setRepeat([...words]);
     }
   };
 
@@ -51,15 +48,16 @@ function Repeat() {
         Repeat ({repeat.length})
       </Button>
       <Collapse in={expand} className="repeat-collapse-container">
-        {words.map((word) =>
+        {words.map((word, wordIndex) =>
           word.words
             .filter((word) => word.status === "repeat")
-            .map((item, index) => (
+            .map((item, itemIndex) => (
               <Button
-                key={index}
+                key={itemIndex}
                 className="repeat-text"
                 variant="outlined"
-                onClick={handleRepeat}
+                onClick={(e) => handleRepeat(e, wordIndex)}
+                // style={{ color: `rgb(${index},${index},${index})` }}
               >
                 {item.word}
               </Button>

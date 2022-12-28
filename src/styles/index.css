@@ -1,6 +1,7 @@
 @import url(word-card.css);
 @import url(pagination.css);
 @import url(repeat.css);
+@import url(reset.css);
 
 body {
   margin: 0;

@@ -14,6 +14,7 @@ function WordCard({ word }) {
   const handleDone = () => {
     let newWord = words[page - 1].words.find((item) => item.word === word.word);
     newWord.status = "done";
+    localStorage.setItem("words", JSON.stringify(words));
     setWords([...words]);
   };
 
@@ -21,6 +22,7 @@ function WordCard({ word }) {
     let newWord = words[page - 1].words.find((item) => item.word === word.word);
     newWord.status = "repeat";
     setWords([...words]);
+    localStorage.setItem("words", JSON.stringify(words));
   };
 
   const handleExpand = () => {
