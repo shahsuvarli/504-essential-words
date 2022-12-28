@@ -31,7 +31,7 @@ function Main() {
       </div>
       <Arrows />
       <Button className="copyright" target='_blank' href="https://shahsuvarli.com">
-        www.shahsuvarli.com
+        shahsuvarli.com
       </Button>
     </div>
   );
